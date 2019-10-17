@@ -1,0 +1,960 @@
+Standort;LSA-Nr.;Baulastträger;Bezirk;X;Y
+Alte Römerstraße / Feldkasseler Weg;6033;Stadt Köln;Chorweiler;23.550.989,5;56.562.356,4
+Am Baggerfeld / Escher Straße / Bad;0650;StrNRW;Chorweiler;23.504.975,4;56.527.572,2
+Blumenbergsweg / Mercatorstraße;6023;Stadt Köln;Chorweiler;23.513.255,4;56.566.051,5
+Chorbuschstraße / Am Baggerfeld / Weilerstraße / Auweilerstraße;0624;StrNRW;Chorweiler;23.497.386,8;56.534.660,8
+Donatusstraße / Am Pescher Holz;6041;Stadt Köln;Chorweiler;23.509.218,7;56.522.819,3
+Donatusstraße / Robert-Koch-Straße / Kapellenweg;6042;Stadt Köln;Chorweiler;23.510.641,1;56.521.282,4
+Edsel-Ford-Straße / Oranjehofstraße / Spessartstraße;6028;Stadt Köln;Chorweiler;23.553.254,6;56.547.244,5
+Emdener Straße / Ivenshofweg;6032;Stadt Köln;Chorweiler;23.565.740,1;56.539.791,4
+Emdener Straße / Wacker Chemie;6031;Stadt Köln;Chorweiler;23.562.810,9;56.543.097,8
+Escher Straße / Birkenweg;6046;Stadt Köln;Chorweiler;23.509.801,7;56.519.223,2
+Escher Straße / Donatusstraße;0671;StrNRW;Chorweiler;23.505.945,4;56.524.904,9
+Escher Straße / Johannesstraße / Longericher Straße / Mengenicher Straße;6044;Stadt Köln;Chorweiler;23.510.409,2;56.517.823,5
+Fühlinger Weg / Weilerweg;6009;Stadt Köln;Chorweiler;23.517.282,3;56.541.374,3
+Longericher Straße / Donatusstraße / Elisabethstraße;6043;Stadt Köln;Chorweiler;23.512.654,6;56.519.148,0
+Mengenicher Straße / Schulstraße / Heinrich-Heine-Ring;6045;Stadt Köln;Chorweiler;23.507.333,6;56.515.206,0
+Merianstraße / Cosmasweg;6008;Stadt Köln;Chorweiler;23.520.689,7;56.539.068,1
+Merianstraße / Elbeallee;6004;Stadt Köln;Chorweiler;23.520.718,0;56.547.183,2
+Merianstraße / Fühlinger Weg;6007;Stadt Köln;Chorweiler;23.518.809,9;56.542.272,7
+Merianstraße / Industriestraße;6017;Stadt Köln;Chorweiler;23.539.620,5;56.552.982,4
+Merianstraße / Mercatorstraße;6005;Stadt Köln;Chorweiler;23.519.593,7;56.546.406,5
+Merianstraße / Weichselring / Athener Ring;6003;Stadt Köln;Chorweiler;23.524.710,0;56.547.830,1
+Merianstraße / Willi-Suth-Allee;6002;Stadt Köln;Chorweiler;23.530.405,2;56.546.614,4
+Neusser Landstraße / Alte Neusser Landstraße;6036;Stadt Köln;Chorweiler;23.504.479,5;56.595.022,2
+Neusser Landstraße / Bayer Dormagen-Nord;0666;StrNRW;Chorweiler;23.493.802,8;56.609.809,1
+Neusser Landstraße / Bayer Dormagen-Süd;0665;StrNRW;Chorweiler;23.497.898,9;56.601.177,4
+Neusser Landstraße / Chrysanthemenweg;0677;StrNRW;Chorweiler;23.540.174,4;56.539.191,9
+Neusser Landstraße / Dornstraße;6037;Stadt Köln;Chorweiler;23.500.888,9;56.597.520,1
+Neusser Landstraße / Fühlingen Kirche;6034;Stadt Köln;Chorweiler;23.530.276,9;56.558.103,1
+Neusser Landstraße / Merianstraße;6001;Stadt Köln;Chorweiler;23.534.730,7;56.548.889,8
+Neusser Landstraße / Roggendorfer Weg;6035;Stadt Köln;Chorweiler;23.529.816,7;56.559.973,1
+Neusser Landstraße / Stallagsbergweg  / Asternweg;0676;StrNRW;Chorweiler;23.539.548,8;56.540.417,2
+Oranjehofstraße / Parkplatz Ost ;6030;Stadt Köln;Chorweiler;23.552.853,4;56.544.513,3
+Parallelweg / Bayer Dormagen - Tor 5 / S-Bahn HST;0667;StrNRW;Chorweiler;23.486.644,6;56.602.755,0
+Pescher Weg / Marienberger Weg;6048;Stadt Köln;Chorweiler;23.520.960,2;56.519.620,3
+Volkhovener Weg / Johannes-Albers-Straße / Schule;6026;Stadt Köln;Chorweiler;23.525.089,5;56.527.888,6
+Volkhovener Weg / Stallagsweg;6025;Stadt Köln;Chorweiler;23.523.869,6;56.531.350,6
+Willi-Suth-Allee / Karl-Marx-Allee / Stockholmer Allee;6016;Stadt Köln;Chorweiler;23.530.016,4;56.545.421,5
+Worringer Landstraße / BAB57;0619;StrNRW;Chorweiler;23.483.727,2;56.564.442,9
+Alte Escher Straße / Ausfahrt Großmarkt;4422 ;Stadt Köln;Ehrenfeld;23.522.607,5;56.508.518,0
+Alte Escher Straße / Von-Hünefeld-Straße / BAB57;4419;Stadt Köln;Ehrenfeld;23.521.947,3;56.508.965,1
+Äußere Kanalstraße / Butzweilerstraße;4016;Stadt Köln;Ehrenfeld;23.537.952,7;56.485.199,4
+Äußere Kanalstraße / Iltisstraße;4838;Stadt Köln;Ehrenfeld;23.533.831,1;56.480.383,0
+Äußere Kanalstraße / Nonniweg / Silcherstraße;4138;Stadt Köln;Ehrenfeld;23.525.782,5;56.468.720,8
+Äußere Kanalstraße / Ossendorfer Straße / Frohnhofstraße;4017;Stadt Köln;Ehrenfeld;23.534.643,3;56.481.382,6
+Butzweilerhofallee / Rudi-Conin-Straße;4429;Stadt Köln;Ehrenfeld;23.519.975,3;56.501.305,4
+Butzweilerstraße / Alte Escher Straße;4420;Stadt Köln;Ehrenfeld;23.526.868,3;56.504.955,3
+Butzweilerstraße / BAB57;4015;Stadt Köln;Ehrenfeld;23.537.068,1;56.486.232,1
+Butzweilerstraße / Butzweilerhofallee / AWB Ossendorf;4013;Stadt Köln;Ehrenfeld;23.526.771,9;56.499.393,6
+Butzweilerstraße / Franziska-Anneke-Straße;4014;Stadt Köln;Ehrenfeld;23.535.554,9;56.487.970,8
+Butzweilerstraße / Hugo-Eckener-Straße / Ikarosstraße;4029;Stadt Köln;Ehrenfeld;23.527.553,2;56.494.275,4
+Butzweilerstraße / IKEA;4421;Stadt Köln;Ehrenfeld;23.526.639,5;56.502.677,1
+Ehrenfeldgürtel / Eichendorffstraße;4832;Stadt Köln;Ehrenfeld;23.540.982,3;56.469.973,4
+Ehrenfeldgürtel / Försterstraße;4831;Stadt Köln;Ehrenfeld;23.540.567,1;56.469.359,9
+Ehrenfeldgürtel / Fridolinstraße;4829;Stadt Köln;Ehrenfeld;23.539.845,2;56.468.218,5
+Ehrenfeldgürtel / Hüttenstraße / Stammstraße;4827;Stadt Köln;Ehrenfeld;23.538.109,2;56.465.592,4
+Ehrenfeldgürtel / Nußbaumerstraße;4833;Stadt Köln;Ehrenfeld;23.542.141,8;56.471.640,3
+Ehrenfeldgürtel / Subbelrather Straße;4828;Stadt Köln;Ehrenfeld;23.539.299,4;56.467.420,2
+Ehrenfeldgürtel / Venloer Straße;4826;Stadt Köln;Ehrenfeld;23.536.686,8;56.463.513,9
+Fitzmauricestraße / Käthe-Paulus-Straße ;4427;Stadt Köln;Ehrenfeld;23.521.526,1;56.496.803,3
+Freimersdorfer Weg / WDR;4009;Stadt Köln;Ehrenfeld;23.495.715,5;56.486.735,8
+Hugo-Eckener-Straße / Fitzmauricestraße / Köhlstraße;4428;Stadt Köln;Ehrenfeld;23.523.828,8;56.494.399,1
+Hugo-Eckener-Straße / Mathias-Brüggen-Straße;4012;Stadt Köln;Ehrenfeld;23.519.476,4;56.494.484,2
+Iltisstraße / Takuplatz / Tondernstraße;4837;Stadt Köln;Ehrenfeld;23.536.912,4;56.475.449,5
+Innere Kanalstraße / Am Gleisdreieck;4160;Stadt Köln;Ehrenfeld;23.552.158,2;56.466.549,6
+Innere Kanalstraße / Fernmeldeturm;4164;Stadt Köln;Ehrenfeld;23.546.187,5;56.459.348,8
+Innere Kanalstraße / Herkulesstraße Nord;4161;Stadt Köln;Ehrenfeld;23.549.731,8;56.463.922,6
+Innere Kanalstraße / Herkulesstraße Süd;4162;Stadt Köln;Ehrenfeld;23.548.696,4;56.462.625,9
+Innere Kanalstraße / Hornstraße;4159;Stadt Köln;Ehrenfeld;23.553.827,3;56.467.067,0
+Innere Kanalstraße / Subbelrather Straße;4163;Stadt Köln;Ehrenfeld;23.547.884,0;56.461.473,2
+Innere Kanalstraße / Venloer Straße;4165;Stadt Köln;Ehrenfeld;23.544.734,2;56.457.593,8
+Innere Kanalstraße / Vogelsanger Straße;4166;Stadt Köln;Ehrenfeld;23.543.419,3;56.454.985,6
+Innere Kanalstraße / Weinsbergstraße;4167;Stadt Köln;Ehrenfeld;23.542.565,6;56.451.760,3
+Maarweg / Fuhrpark;4146;Stadt Köln;Ehrenfeld;23.523.468,0;56.464.712,3
+Maarweg / Widdersdorfer Straße;4153;Stadt Köln;Ehrenfeld;23.523.365,5;56.459.242,9
+Mathias-Brüggen-Straße / Ossendorfer Weg;4028;Stadt Köln;Ehrenfeld;23.519.209,5;56.484.978,8
+Melatengürtel / Fröbelstraße;4823;Stadt Köln;Ehrenfeld;23.533.714,7;56.455.984,9
+Melatengürtel / Oskar-Jäger-Straße;4822;Stadt Köln;Ehrenfeld;23.532.153,3;56.451.917,8
+Melatengürtel / Vogelsanger Straße / Ehrenfeldgürtel;4825;Stadt Köln;Ehrenfeld;23.535.288,4;56.461.609,6
+Melatengürtel / Weinsbergstraße;4824;Stadt Köln;Ehrenfeld;23.533.746,0;56.457.859,9
+Militärringstraße / Alte Escher Straße;0418;StrNRW;Ehrenfeld;23.520.559,6;56.510.469,6
+Militärringstraße / Andreas-Muhr-Straße / KVB-Querung ;4019;Stadt Köln;Ehrenfeld;23.504.448,5;56.487.060,7
+Militärringstraße / Buschweg;0416;StrNRW;Ehrenfeld;23.507.677,3;56.500.987,6
+Militärringstraße / Goldammerweg;0443;StrNRW;Ehrenfeld;23.503.372,8;56.482.612,5
+Militärringstraße / Johannesstraße;0417;StrNRW;Ehrenfeld;23.515.564,5;56.508.042,3
+Militärringstraße / Mathias-Brüggen-Straße;4011;Stadt Köln;Ehrenfeld;23.511.235,6;56.505.927,1
+Militärringstraße / Ollenhauerring / Hugo-Eckener-Straße;0415;StrNRW;Ehrenfeld;23.505.855,5;56.493.477,7
+Militärringstraße / Venloer Straße;4008;Stadt Köln;Ehrenfeld;23.503.963,4;56.485.271,3
+Militärringstraße / Vogelsanger Straße / Carl-von-Linne-Weg;0462;StrNRW;Ehrenfeld;23.502.996,5;56.474.029,1
+Nußbaumerstraße / Herkulesstraße / Liebigstraße;4103;Stadt Köln;Ehrenfeld;23.546.484,7;56.468.347,5
+Nußbaumerstraße / Iltisstraße / Gustav-Freytag-Straße;4836;Stadt Köln;Ehrenfeld;23.538.184,4;56.472.478,8
+Nußbaumerstraße / Siemensstraße / Schule;4834;Stadt Köln;Ehrenfeld;23.541.007,5;56.471.870,6
+Oskar-Jäger-Straße / Stolberger Straße;4154;Stadt Köln;Ehrenfeld;23.531.256,0;56.453.989,6
+Parkgürtel / BAB57;4102;Stadt Köln;Ehrenfeld;23.544.809,2;56.473.869,2
+Parkgürtel / Methweg GEW;4101;Stadt Köln;Ehrenfeld;23.546.838,0;56.475.650,8
+Parkgürtel / Osterather Straße;4100;Stadt Köln;Ehrenfeld;23.547.974,1;56.477.332,7
+Rochusstraße / Justitzvollzugsanstallt / Rektor-Klein-Straße;4839;Stadt Köln;Ehrenfeld;23.528.813,9;56.490.487,7
+Rochusstraße / Margaretastraße ;4840;Stadt Köln;Ehrenfeld;23.529.312,1;56.483.479,8
+Sandweg / Feltenstraße / Am Rosengarten;4024;Stadt Köln;Ehrenfeld;23.525.336,5;56.478.905,6
+Subbelrather Straße / Alpener Straße;4119;Stadt Köln;Ehrenfeld;23.531.872,3;56.472.306,4
+Subbelrather Straße / Äußere Kanalstraße;4121;Stadt Köln;Ehrenfeld;23.529.246,0;56.473.914,3
+Subbelrather Straße / Gutenbergstraße;4854;Stadt Köln;Ehrenfeld;23.544.384,8;56.463.811,0
+Subbelrather Straße / Landmannstraße / Platenstraße;4115;Stadt Köln;Ehrenfeld;23.536.670,4;56.469.109,2
+Subbelrather Straße / Leyendeckerstraße / Takustraße;4117;Stadt Köln;Ehrenfeld;23.533.960,7;56.470.906,6
+Subbelrather Straße / Liebigstraße / Glasstraße;4856;Stadt Köln;Ehrenfeld;23.542.455,8;56.465.341,5
+Subbelrather Straße / Lukasstraße / Körnerstraße;4855;Stadt Köln;Ehrenfeld;23.543.012,4;56.464.854,5
+Subbelrather Straße / Marienstraße;4120;Stadt Köln;Ehrenfeld;23.530.204,7;56.473.375,0
+Subbelrather Straße / Myliusstraße / Schule;4110;Stadt Köln;Ehrenfeld;23.545.952,2;56.462.737,6
+Venloer Straße / Akazienweg;4001;Stadt Köln;Ehrenfeld;23.520.206,5;56.476.283,6
+Venloer Straße / Äußere Kanalstraße / Helmholtzstraße;4135;Stadt Köln;Ehrenfeld;23.527.278,3;56.471.052,5
+Venloer Straße / B59alt;0435;StrNRW;Ehrenfeld;23.483.073,0;56.500.844,0
+Venloer Straße / BAB1-Ost und West;0431;StrNRW;Ehrenfeld;23.490.242,0;56.496.424,0
+Venloer Straße / Fa. Gugel;0432;StrNRW;Ehrenfeld;23.489.833,3;56.496.659,8
+Venloer Straße / Franz-Geuer-Straße / Piusstraße;4130;Stadt Köln;Ehrenfeld;23.542.624,8;56.458.919,4
+Venloer Straße / Freimersdorfer Weg / Andreas-Muhr-Staße;4018;Stadt Köln;Ehrenfeld;23.501.736,8;56.487.162,1
+Venloer Straße / Fuchsstraße / Moschee;4129;Stadt Köln;Ehrenfeld;23.544.031,1;56.457.970,6
+Venloer Straße / Garzweilerweg;0433;StrNRW;Ehrenfeld;23.488.627,0;56.497.398,0
+Venloer Straße / Leyendeckerstraße;4133;Stadt Köln;Ehrenfeld;23.532.033,4;56.468.397,3
+Venloer Straße / Mathias-Brüggen-Straße;4002;Stadt Köln;Ehrenfeld;23.516.841,2;56.478.911,2
+Venloer Straße / Nattermannallee;0444;StrNRW;Ehrenfeld;23.496.891,7;56.493.013,1
+Venloer Straße / Neptunstraße / Klarastraße;4131;Stadt Köln;Ehrenfeld;23.539.094,0;56.461.415,7
+Venloer Straße / P+R-West;4007;Stadt Köln;Ehrenfeld;23.505.817,5;56.485.170,8
+Venloer Straße / Platenstraße / Bezirksrathaus;4132;Stadt Köln;Ehrenfeld;23.534.328,7;56.466.031,5
+Venloer Straße / Seeadlerweg / P+R-Ost;4006;Stadt Köln;Ehrenfeld;23.507.079,8;56.485.231,5
+Venloer Straße / Spenrather Straße;0434;StrNRW;Ehrenfeld;23.486.104,0;56.498.956,0
+Venloer Straße / Westendstraße / Kolkrabenweg;4004;Stadt Köln;Ehrenfeld;23.512.318,8;56.482.368,4
+Venloer Straße / Westfriedhof;4005;Stadt Köln;Ehrenfeld;23.509.792,3;56.483.748,1
+Venloer Straße / Wilhelm-Mauser-Straße / Rochusstraße;4136;Stadt Köln;Ehrenfeld;23.525.247,1;56.472.284,9
+Venloer Straße / Wolffsohnstraße;4003;Stadt Köln;Ehrenfeld;23.514.975,4;56.480.619,2
+Vogelsanger Straße / Äußere Kanalstraße / Maarweg;4144;Stadt Köln;Ehrenfeld;23.524.182,5;56.466.533,5
+Vogelsanger Straße / Falkenweg;4027;Stadt Köln;Ehrenfeld;23.514.721,9;56.470.112,6
+Vogelsanger Straße / Grüner Weg;4125;Stadt Köln;Ehrenfeld;23.534.317,1;56.462.549,7
+Vogelsanger Straße / Leyendeckerstraße / Helmholtzstraße;4143;Stadt Köln;Ehrenfeld;23.529.988,3;56.464.764,2
+Vogelsanger Straße / Neptunstraße;4142;Stadt Köln;Ehrenfeld;23.537.806,2;56.459.276,7
+Vogelsanger Straße / Thebäerstraße / Mechternstraße;4141;Stadt Köln;Ehrenfeld;23.539.781,6;56.458.050,5
+Vogelsanger Straße / Vitalisstraße;4145;Stadt Köln;Ehrenfeld;23.523.420,7;56.466.746,6
+Vogelsanger Straße / Vogelsanger Markt / Schule;4026;Stadt Köln;Ehrenfeld;23.511.746,9;56.470.283,7
+Vogelsanger Straße / Zufahrt Rheinische Stiftung;4147;Stadt Köln;Ehrenfeld;23.524.577,0;56.466.415,0
+Von-Hünefeld-Straße / Butzweilerhofallee / Richard-Byrd-Straße Süd / Adolf-Grimme-Allee ;4430;Stadt Köln;Ehrenfeld;23.517.307,1;56.503.210,2
+Von-Hünefeld-Straße / Richard-Byrd-Straße Nord / Ausfahrt Großmarkt;4431;Stadt Köln;Ehrenfeld;23.520.724,8;56.507.646,0
+Weinsbergstraße / Baumarkt Bahr;4149;Stadt Köln;Ehrenfeld;23.531.987,2;56.458.065,5
+Weinsbergstraße / Friedhof-israelisch / Geisselstraße;4151;Stadt Köln;Ehrenfeld;23.536.582,5;56.455.886,2
+Weinsbergstraße / Oskar-Jäger-Straße / Widdersdorfer Straße;4152;Stadt Köln;Ehrenfeld;23.530.252,4;56.458.270,2
+Weinsbergstraße / Piusstraße / Schule;4150;Stadt Köln;Ehrenfeld;23.540.492,6;56.453.243,5
+Widdersdorfer Straße / Mercedes Allee;4148;Stadt Köln;Ehrenfeld;23.521.378,0;56.459.626,0
+Aachener Straße / Aachener Weiher / Richard-Wagner-Straße;1617;Stadt Köln;Innenstadt;23.544.861,6;56.447.985,5
+Aachener Straße / Brüsseler Straße;1613;Stadt Köln;Innenstadt;23.548.824,3;56.447.991,3
+Aachener Straße / Händelstraße / Brabanter Straße;1611;Stadt Köln;Innenstadt;23.550.932,2;56.447.905,5
+Aachener Straße / Moltkestraße;1615;Stadt Köln;Innenstadt;23.547.415,7;56.448.047,6
+Agrippinaufer / Gustav-Heinemann-Ufer / Südbrücke;1309;Stadt Köln;Innenstadt;23.573.255,0;56.424.845,0
+Agrippinaufer / Oberländer Wall;1398;Stadt Köln;Innenstadt;23.572.488,3;56.427.159,9
+Agrippinaufer / Ubierring-Süd ;1308;Stadt Köln;Innenstadt;23.571.331,1;56.431.107,5
+Am Bayenturm / Ubierring-Nord / Wender TG;1307;Stadt Köln;Innenstadt;23.571.044,5;56.432.178,8
+Am Domhof / Trankgasse;1267;Stadt Köln;Innenstadt;23.566.544,3;56.453.100,0
+Am Kümpchenshof / Maybachstraße;1451;Stadt Köln;Innenstadt;23.556.478,7;56.459.610,4
+Am Leystapel / Filzengraben;1302;Stadt Köln;Innenstadt;23.568.739,4;56.444.388,2
+Am Leystapel / Große Witschgasse / Schokoladenmuseum;1303;Stadt Köln;Innenstadt;23.568.611,6;56.442.943,5
+Am Leystapel / Heumarkt / Markmansgasse;1301;Stadt Köln;Innenstadt;23.568.796,1;56.445.756,8
+Auenweg / Charles-de-Gaulle-Platz;1176;Stadt Köln;Innenstadt;23.576.140,2;56.453.072,7
+Barbarossaplatz Nord / Hohenstaufenring / Roonstraße;1342;Stadt Köln;Innenstadt;23.553.507,6;56.439.760,6
+Barbarossaplatz-Süd / Salierring / Pfälzer Straße;1343;Stadt Köln;Innenstadt;23.554.171,7;56.438.768,0
+Bayenstraße / Dreikönigenstraße;1306;Stadt Köln;Innenstadt;23.570.031,8;56.434.785,6
+Bismarckstraße / Brüsseler Straße;1455;Stadt Köln;Innenstadt;23.549.136,6;56.453.108,9
+Bonner Straße / Bonner Wall / Alteburger Wall;1394;Stadt Köln;Innenstadt;23.566.723,3;56.425.059,0
+Burgmauer / Neven-DuMont-Straße;1283;Stadt Köln;Innenstadt;23.560.012,3;56.452.831,4
+Cäcilienstraße / An Sankt Agatha;1598;Stadt Köln;Innenstadt;23.562.529,7;56.445.941,7
+Cäcilienstraße / Antonsgasse;1600;Stadt Köln;Innenstadt;23.561.132,5;56.446.278,7
+Cäcilienstraße / Augustinerstraße / Kleine Sandkaul;1596;Stadt Köln;Innenstadt;23.565.242,1;56.446.253,6
+Cäcilienstraße / Hohe Straße ;1597;Stadt Köln;Innenstadt;23.563.952,3;56.445.984,9
+Cäcilienstraße / Kronengasse;1601;Stadt Köln;Innenstadt;23.559.658,8;56.446.406,7
+Cäcilienstraße / Nord-Süd-Fahrt;1599;Stadt Köln;Innenstadt;23.561.805,8;56.446.151,3
+Christophstraße / Mohrenstraße / Klingelpütz;1274;Stadt Köln;Innenstadt;23.558.065,6;56.455.182,1
+Christophstraße / Probsteigasse / Gereonskloster;1430;Stadt Köln;Innenstadt;23.556.247,7;56.455.925,5
+Christophstraße / Von-Werth-Straße;1431;Stadt Köln;Innenstadt;23.555.450,9;56.456.335,2
+Deutzer Ring / Gießener Straße;1871;Stadt Köln;Innenstadt;23.589.495,7;56.445.945,1
+Deutzer Ring / Kannebäckerstraße;1872;Stadt Köln;Innenstadt;23.587.076,1;56.441.811,0
+Deutz-Kalker Straße / Betzdorfer Straße;1193;Stadt Köln;Innenstadt;23.587.130,4;56.447.082,0
+Deutz-Kalker Straße / Gummersbacher Straße;1190;Stadt Köln;Innenstadt;23.582.972,8;56.447.941,6
+Deutz-Kalker Straße / Östliche Zubringerstraße/ Opladener Straße;1107;Stadt Köln;Innenstadt;23.581.795,8;56.447.958,5
+Deutz-Kalker Straße / Reitweg;1192;Stadt Köln;Innenstadt;23.585.385,6;56.446.743,8
+Deutz-Kalker-Straße / Deutzer Ring;1801;Stadt Köln;Innenstadt;23.589.803,0;56.447.104,3
+Deutz-Mülheimer Straße / Barmer Straße;1110;Stadt Köln;Innenstadt;23.581.233,4;56.452.655,3
+Deutz-Mülheimer Straße / Messe-Haupteingang;1111;Stadt Köln;Innenstadt;23.582.037,6;56.454.173,5
+Deutz-Mülheimer Straße / Messekreisel Nord;1113;Stadt Köln;Innenstadt;23.583.384,7;56.456.465,2
+Deutz-Mülheimer Straße / Messekreisel Ost / Pfälzischer Ring;1114;Stadt Köln;Innenstadt;23.583.686,8;56.455.751,4
+Deutz-Mülheimer Straße / Messekreisel Süd / Brügelmannstraße;1112;Stadt Köln;Innenstadt;23.582.952,6;56.455.511,2
+Deutz-Mülheimer Straße / Opladener Straße / Justinianstraße;1191;Stadt Köln;Innenstadt;23.579.974,0;56.450.452,0
+Eifelplatz / Warnblinkanlage;1386;Stadt Köln;Innenstadt;23.555.211,0;56.433.815,6
+Erftstraße / Im Mediapark;1448;Stadt Köln;Innenstadt;23.553.397,4;56.458.914,3
+Erftstraße / Maybachstraße / Hermann-Becker-Straße;1452;Stadt Köln;Innenstadt;23.554.910,1;56.458.685,6
+Erftstraße / Spichernstraße;1453;Stadt Köln;Innenstadt;23.554.081,1;56.458.797,4
+Gladbacher Straße / Erftstraße / Schule;1433;Stadt Köln;Innenstadt;23.551.408,3;56.459.113,3
+Gladbacher Straße / Spichernstraße;1432;Stadt Köln;Innenstadt;23.553.140,9;56.457.922,1
+Gotenring / Alarichstraße;1104;Stadt Köln;Innenstadt;23.578.866,3;56.444.646,6
+Gotenring / Deutzer Freiheit / Deutz-Kalker Straße;1106;Stadt Köln;Innenstadt;23.579.264,8;56.447.704,3
+Gotenring / Severinsbrücke / Deutzer Ring;1102;Stadt Köln;Innenstadt;23.576.719,0;56.442.112,0
+Gotenring / Suevenstraße / Schaurtestraße;1103;Stadt Köln;Innenstadt;23.578.265,6;56.443.337,2
+Habsburgerring / Hohenstaufenring / Lindenstraße / Schaafenstraße;1421;Stadt Köln;Innenstadt;23.551.995,5;56.445.805,0
+Habsburgerring / Richard-Wagner-Straße;1610;Stadt Köln;Innenstadt;23.551.889,9;56.446.628,8
+Hahnenstraße / Apostelnkloster / Marsilstein;1606;Stadt Köln;Innenstadt;23.555.521,5;56.447.078,4
+Hahnenstraße / Benesisstraße;1607;Stadt Köln;Innenstadt;23.554.389,9;56.447.058,4
+Hahnenstraße / Pilgrimstraße;1608;Stadt Köln;Innenstadt;23.552.689,4;56.446.851,4
+Hansaring /  Hermann-Becker-Straße / Kaiser-Wilhelm-Ring;1408;Stadt Köln;Innenstadt;23.555.199,9;56.457.618,2
+Hansaring / Am Kümpchenshof;1414;Stadt Köln;Innenstadt;23.557.028,6;56.458.813,6
+Hansaring / Bremer Straße / Adolf-Fischer-Straße;1413;Stadt Köln;Innenstadt;23.558.765,7;56.459.943,6
+Hansaring / Ebertplatz Süd;1246;Stadt Köln;Innenstadt;23.564.855,4;56.462.742,7
+Hansaring / Krefelder Straße;1411;Stadt Köln;Innenstadt;23.562.162,0;56.461.766,7
+Hansaring / Lübecker Straße;1410;Stadt Köln;Innenstadt;23.563.387,2;56.462.367,2
+Hansaring / Ritterstraße / Schule;1412;Stadt Köln;Innenstadt;23.560.699,7;56.460.995,6
+Hansaring / Von-Werth-Straße;1409;Stadt Köln;Innenstadt;23.556.473,7;56.458.455,9
+Heumarkt / Augustinerstraße / Gürzenichstraße;1595;Stadt Köln;Innenstadt;23.566.865,3;56.446.676,8
+Heumarkt / Pipinstraße / Am Malzbüchel;1363;Stadt Köln;Innenstadt;23.566.923,2;56.446.084,1
+Hohenstaufenring / Beethovenstraße / Schaevenstraße;1422;Stadt Köln;Innenstadt;23.552.401,9;56.444.062,3
+Hohenstaufenring / Zülpicher Platz / Jahnstraße;1341;Stadt Köln;Innenstadt;23.552.936,4;56.441.829,2
+Hohenzollernring / Aachener Straße / Rudolfplatz;1609;Stadt Köln;Innenstadt;23.551.831,2;56.447.769,9
+Hohenzollernring / Friesenplatz / Im Klapperhof / Magnusstraße;1417;Stadt Köln;Innenstadt;23.552.716,0;56.452.359,0
+Hohenzollernring / Maastrichter Straße / Limburger Straße;1418;Stadt Köln;Innenstadt;23.552.239,1;56.450.047,8
+Holzmarkt / Kleine Witschgasse / Severinsbrücke;1304;Stadt Köln;Innenstadt;23.568.332,4;56.441.492,9
+Holzmarkt / Mechtildisstraße ;1305;Stadt Köln;Innenstadt;23.568.345,7;56.438.523,5
+Höninger Weg / Eifelstraße / Eifelwall;1389;Stadt Köln;Innenstadt;23.553.598,9;56.431.649,7
+Im Hasental / Alter Mühlenweg;1157;Stadt Köln;Innenstadt;23.578.722,1;56.439.333,1
+Innere Kanalstraße / Escher Straße;1405;Stadt Köln;Innenstadt;23.558.773,9;56.468.061,5
+Innere Kanalstraße / Krefelder Straße / Merheimer Straße;1401;Stadt Köln;Innenstadt;23.560.150,2;56.468.883,0
+Kaiser-Wilhelm-Ring / Bismarckstraße;1416;Stadt Köln;Innenstadt;23.553.163,0;56.454.529,1
+Kaiser-Wilhelm-Ring / Gladbacher Straße / Christophstraße;1415;Stadt Köln;Innenstadt;23.554.740,4;56.456.803,3
+Kaiser-Wilhelm-Ring / Goebenstraße;1407;Stadt Köln;Innenstadt;23.553.665,1;56.456.074,6
+Karolingerring / Brunostraße;1346;Stadt Köln;Innenstadt;23.563.777,5;56.431.578,9
+Kleine Sandkaul / Tiefgarage Gürzenichquartier ;1594;Stadt Köln;Innenstadt;23.565.264,2;56.446.551,2
+Konrad-Adenauer-Ufer / Dagobertstraße / Kunibertklostergasse;1210;Stadt Köln;Innenstadt;23.570.118,6;56.459.687,4
+Konrad-Adenauer-Ufer / Elsa-Brändstöm-Straße;1205;Stadt Köln;Innenstadt;23.574.846,5;56.466.894,0
+Konrad-Adenauer-Ufer / Goldgasse;1212;Stadt Köln;Innenstadt;23.568.663,1;56.454.684,8
+Konrad-Adenauer-Ufer / Machabäerstraße;1211;Stadt Köln;Innenstadt;23.569.232,6;56.457.246,2
+Konrad-Adenauer-Ufer / Theodor-Heuss-Ring;1208;Stadt Köln;Innenstadt;23.571.428,3;56.462.270,1
+Konrad-Adenauer-Ufer / Thürmchenswall;1209;Stadt Köln;Innenstadt;23.570.695,3;56.460.979,1
+Konrad-Adenauer-Ufer / Trankgasse;1214;Stadt Köln;Innenstadt;23.568.458,2;56.453.436,3
+Konrad-Adenauer-Ufer / Worringer Straße;1206;Stadt Köln;Innenstadt;23.573.691,5;56.465.510,1
+Konrad-Adenauer-Ufer / Wörthstraße;1207;Stadt Köln;Innenstadt;23.572.700,4;56.464.269,6
+Krefelder Straße / Krefelder Wall / Aquinostraße;1402;Stadt Köln;Innenstadt;23.561.089,3;56.465.872,9
+Krefelder Straße / Maybachstraße / Lübecker Straße;1404;Stadt Köln;Innenstadt;23.561.952,3;56.462.736,8
+Kyotostraße / Gereonswall / Am Kümpchenshof;1450;Stadt Köln;Innenstadt;23.557.658,7;56.457.895,4
+Lindenstraße / Lützowstraße / Dasselstraße;1475;Stadt Köln;Innenstadt;23.547.226,8;56.442.838,0
+Luxemburger Straße / Eifelwall / Luxemburger Wall;1503;Stadt Köln;Innenstadt;23.550.376,9;56.435.240,0
+Luxemburger Straße / Moselstraße;1502;Stadt Köln;Innenstadt;23.551.842,0;56.437.311,8
+Luxemburger Straße / Trierer Straße;1501;Stadt Köln;Innenstadt;23.552.151,6;56.437.789,5
+Magnusstraße / Albertusstraße;1286;Stadt Köln;Innenstadt;23.555.691,8;56.451.806,5
+Magnusstraße / Alte Wallgasse / Römergasse;1262;Stadt Köln;Innenstadt;23.554.698,0;56.451.677,8
+Magnusstraße / Friesenwall;1261;Stadt Köln;Innenstadt;23.553.510,3;56.452.074,4
+Magnusstraße / Sankt-Apern-Straße;1285;Stadt Köln;Innenstadt;23.557.010,6;56.452.640,4
+Mechtildisstraße / Im Sionstal;1315;Stadt Köln;Innenstadt;23.566.817,7;56.438.447,6
+Mühlenbach / Filzengraben / An der Malzmühle;1351;Stadt Köln;Innenstadt;23.566.171,1;56.444.222,5
+Mühlenbach / Waidmarkt / Blaubach;1352;Stadt Köln;Innenstadt;23.563.867,0;56.443.396,7
+Neue Weyerstraße / Pantaleonswall;1355;Stadt Köln;Innenstadt;23.554.570,5;56.440.232,7
+Neuköllner Straße / Agrippastraße ;1321;Stadt Köln;Innenstadt;23.561.906,8;56.444.034,8
+Neuköllner Straße / Großer Griechenmarkt;1322;Stadt Köln;Innenstadt;23.562.092,3;56.443.307,8
+Neuköllner Straße / Tel-Aviv-Straße / Blaubach ;1323;Stadt Köln;Innenstadt;23.562.381,4;56.442.296,4
+Neumarkt / Remagen;1604;Stadt Köln;Innenstadt;23.557.510,2;56.446.794,3
+Neumarkt Nord / Richmodstraße;1603;Stadt Köln;Innenstadt;23.557.885,8;56.447.591,6
+Neumarkt Ost / Fleischmengergasse;1602;Stadt Köln;Innenstadt;23.558.889,7;56.446.613,1
+Neumarkt West / Hahnenstraße / Im Laach;1605;Stadt Köln;Innenstadt;23.556.661,0;56.446.999,0
+Neusser Straße / Balthasarstraße;1244;Stadt Köln;Innenstadt;23.565.178,2;56.465.806,5
+Neusser Straße / Ebertplatz Nord;1245;Stadt Köln;Innenstadt;23.565.004,2;56.463.473,1
+Neusser Straße / Krefelder Wall / Neusser Platz;1242;Stadt Köln;Innenstadt;23.564.874,5;56.468.400,5
+Neusser Straße / Weißenburgstraße;1243;Stadt Köln;Innenstadt;23.565.259,4;56.467.064,0
+Opladener Straße / Ausfahrt Parkhaus;1195;Stadt Köln;Innenstadt;23.582.042,5;56.449.866,7
+Opladener Straße / Ottoplatz / Neuhöfferstraße;1108;Stadt Köln;Innenstadt;23.577.315,7;56.450.853,5
+Ottoplatz / Auenweg / Hermann-Pünder Straße;1174;Stadt Köln;Innenstadt;23.576.249,8;56.450.946,9
+Richard-Wagner Straße / Händelstraße;1612;Stadt Köln;Innenstadt;23.550.341,9;56.446.678,8
+Richard-Wagner-Straße / Brüsseler Straße;1614;Stadt Köln;Innenstadt;23.548.735,2;56.446.784,2
+Richard-Wagner-Straße / Moltkestraße;1616;Stadt Köln;Innenstadt;23.547.357,4;56.446.859,2
+Riehler Straße / Elsa-Brändström-Straße;1223;Stadt Köln;Innenstadt;23.573.584,9;56.468.792,5
+Riehler Straße / Reichenspergerplatz;1225;Stadt Köln;Innenstadt;23.569.769,4;56.466.626,3
+Riehler Straße / Riehler Platz;1224;Stadt Köln;Innenstadt;23.571.904,9;56.467.834,2
+Riehler Straße / Schillingstraße / Sedanstraße;1226;Stadt Köln;Innenstadt;23.567.607,0;56.464.804,1
+Riehler Straße / Theodor-Heuss-Ring / Ebertplatz Nord;1227;Stadt Köln;Innenstadt;23.566.427,6;56.463.535,3
+Roonstraße / Beethovenstraße / Rathenauplatz;1458;Stadt Köln;Innenstadt;23.550.298,6;56.442.417,8
+Roonstraße / Lindenstraße / Mozartstraße;1457;Stadt Köln;Innenstadt;23.548.573,9;56.444.049,0
+Roonstraße / Moltkestraße / Lützowstraße / Jülicher Straße;1474;Stadt Köln;Innenstadt;23.547.304,8;56.445.320,4
+Rothgerberbach /  Am Weidenbach / Griechenpforte;1354;Stadt Köln;Innenstadt;23.557.504,4;56.440.699,7
+Rothgerberbach / Perlengraben / Blaubach;1353;Stadt Köln;Innenstadt;23.560.464,9;56.441.183,6
+Salierring / Am Weidenbach / Am Duffesbach;1344;Stadt Köln;Innenstadt;23.555.879,5;56.437.162,5
+Salierring / Eifelstraße / Waisenhausgasse;1345;Stadt Köln;Innenstadt;23.556.977,3;56.436.253,3
+Siegburger Straße / Am Schnellert;1183;Stadt Köln;Innenstadt;23.582.825,7;56.430.307,6
+Siegburger Straße / Arminiusstraße / Von-Gablenz-Straße;1170;Stadt Köln;Innenstadt;23.574.200,9;56.446.012,1
+Siegburger Straße / Deutzer Brücke / Deutzer Freiheit;1171;Stadt Köln;Innenstadt;23.574.510,4;56.447.496,5
+Siegburger Straße / Im Hasental / Alfred-Schütte-Allee;1182;Stadt Köln;Innenstadt;23.576.904,7;56.438.243,3
+Siegburger Straße / Kaltenborn Weg;1167;Stadt Köln;Innenstadt;23.578.831,5;56.435.160,1
+Siegburger Straße / Poller Kirchweg;1168;Stadt Köln;Innenstadt;23.580.673,3;56.432.446,5
+Siegburger Straße / Teutonenstraße;1165;Stadt Köln;Innenstadt;23.575.321,9;56.440.389,0
+Siegburger Straße / Troisdorfer Straße;1164;Stadt Köln;Innenstadt;23.574.400,6;56.442.337,7
+Spichernstraße / Gilbachstraße / Goebenstraße;1454;Stadt Köln;Innenstadt;23.552.247,7;56.457.069,9
+Subbelrather Straße / Herkulesstraße;1434;Stadt Köln;Innenstadt;23.549.860,1;56.460.167,0
+Trankgasse / Komödienstraße / Marzellenstraße;1269;Stadt Köln;Innenstadt;23.564.044,2;56.453.356,8
+Troisdorfer Straße / Severinsbrücke / Deutzer Ring;1101;Stadt Köln;Innenstadt;23.576.080,0;56.442.828,0
+Tunisstraße / Breite Straße / Röhrergasse;1234;Stadt Köln;Innenstadt;23.562.049,0;56.450.384,0
+Tunisstraße / Glockengasse / Brückenstraße;1235;Stadt Köln;Innenstadt;23.561.865,2;56.449.654,1
+Tunisstraße / Komödienstraße;1281;Stadt Köln;Innenstadt;23.561.762,5;56.453.056,4
+Tunisstraße / Streitzeuggasse / Brüderstraße;1236;Stadt Köln;Innenstadt;23.561.578,2;56.448.552,0
+Tunisstraße / Unter Sachsenhausen;1272;Stadt Köln;Innenstadt;23.561.747,6;56.454.262,8
+Tunisstraße / Victoriastraße / Ursulastraße;1232;Stadt Köln;Innenstadt;23.562.287,1;56.456.850,5
+Turiner Straße / Dagobertstraße;1249;Stadt Köln;Innenstadt;23.565.704,2;56.460.782,0
+Turiner Straße / Machabäerstraße;1230;Stadt Köln;Innenstadt;23.565.262,0;56.458.768,7
+Turiner Straße / Maximinenstraße / Ursulastraße;1231;Stadt Köln;Innenstadt;23.564.869,8;56.457.836,0
+Turiner Straße / Theodor-Heuss-Ring / Ebertplatz Süd;1228;Stadt Köln;Innenstadt;23.566.180,4;56.462.624,8
+Turiner Straße / Thürmchenswall;1229;Stadt Köln;Innenstadt;23.565.923,4;56.461.743,7
+Turiner Straße / Unter Krahnenbäumen;1247;Stadt Köln;Innenstadt;23.565.482,1;56.459.750,3
+Ubierring / Alteburger Straße / Chlodwigplatz;1347;Stadt Köln;Innenstadt;23.567.452,1;56.430.699,9
+Ubierring / Mainzer Straße / An der Bottmühle;1348;Stadt Köln;Innenstadt;23.568.586,9;56.431.097,0
+Ulrichgasse / Ankerstraße;1324;Stadt Köln;Innenstadt;23.563.251,3;56.437.386,9
+Ulrichgasse / Kartäusergasse / Vor den Siebenburgen;1326;Stadt Köln;Innenstadt;23.561.986,8;56.435.721,3
+Ulrichgasse / Kartäuserwall / Wender Sachsenring;1327;Stadt Köln;Innenstadt;23.561.254,3;56.434.270,2
+Ulrichgasse / Paulstraße;1325;Stadt Köln;Innenstadt;23.562.639,7;56.436.594,3
+Ulrichgasse / Sachsenring / Ulrepforte ;1328;Stadt Köln;Innenstadt;23.560.963,9;56.433.649,6
+Unter Sachsenhausen / Börsenplatz / Kattenbug;1273;Stadt Köln;Innenstadt;23.560.449,4;56.454.377,6
+Venloer Straße / Bismarckstraße;1464;Stadt Köln;Innenstadt;23.550.251,3;56.453.797,0
+Venloer Straße / Friesenplatz / Kamekestraße;1462;Stadt Köln;Innenstadt;23.551.293,6;56.452.854,0
+Venloer Straße / Hans-Böckler-Platz / Ludolf-Camphausen-Straße;1466;Stadt Köln;Innenstadt;23.547.959,9;56.455.741,4
+Venloer Straße / Spichernstraße / Brüsseler Straße;1465;Stadt Köln;Innenstadt;23.549.642,3;56.454.322,1
+Victoriastraße / Eintrachtstraße / Kardinal-Frings-Straße;1255;Stadt Köln;Innenstadt;23.561.273,7;56.457.174,9
+Victoriastraße / Klingelpütz;1256;Stadt Köln;Innenstadt;23.560.198,2;56.457.352,7
+Vogelsanger Straße / Ludolpf-Camphausen-Straße / Schmalbeinstraße;1473;Stadt Köln;Innenstadt;23.546.333,2;56.452.675,6
+Vogelsanger Straße / Moltkestraße / Bismarckstraße;1472;Stadt Köln;Innenstadt;23.547.535,8;56.452.106,3
+Vorgebirgstraße / Bonner Wall;1333;Stadt Köln;Innenstadt;23.558.951,0;56.428.148,9
+Vorgebirgstraße / Lothringer Straße;1330;Stadt Köln;Innenstadt;23.560.661,2;56.432.432,1
+Vorgebirgstraße / Volksgartenstraße;1332;Stadt Köln;Innenstadt;23.559.887,5;56.430.433,3
+Zeughausstraße / Mohrenstraße / Auf dem Berlich;1284;Stadt Köln;Innenstadt;23.558.238,0;56.452.851,6
+Zülpicher Straße / Fußg. Haltestelle Dasselstrasse / Bahnhof Süd;1169;Stadt Köln;Innenstadt;23.549.143,2;56.438.587,3
+Zülpicher Straße / Zülpicher Platz / Roonstraße ;1387;Stadt Köln;Innenstadt;23.551.919,2;56.440.931,0
+Zülpicher Straße. / Moselstraße / Kyffhäuserstraße / Dasselstraße;1388;Stadt Köln;Innenstadt;23.549.728,4;56.439.075,9
+Mathias-Brüggen-Straße / Mühlenweg;4030;Stadt Köln;k. A.;23.519.179,6;56.486.676,8
+Am Grauen Stein / Westerwaldstraße;8867;Stadt Köln;Kalk;23.591.201,4;56.438.854,4
+Brücker Mauspfad / Hovenstraße;8833;Stadt Köln;Kalk;23.652.407,8;56.454.314,5
+Eiler Straße / Forststraße;8879;Stadt Köln;Kalk;23.651.706,1;56.424.132,4
+Frankfurter Straße / B55a / Gothaer Platz;8947;Stadt Köln;Kalk;23.609.318,8;56.459.469,2
+Frankfurter Straße / Buchheimer Weg / Gernsheimer Straße;8837;Stadt Köln;Kalk;23.621.026,2;56.442.782,0
+Frankfurter Straße / Fuldaer Straße;8949;Stadt Köln;Kalk;23.612.100,0;56.456.006,0
+Frankfurter Straße / Hardtgenbuscher Kirchweg / Feuerwache;8848;Stadt Köln;Kalk;23.626.491,1;56.432.074,3
+Frankfurter Straße / Höhenberger Straße / Höhenberger Ring;8834;Stadt Köln;Kalk;23.614.541,3;56.453.061,9
+Frankfurter Straße / Merheimer Heideweg;8835;Stadt Köln;Kalk;23.615.395,0;56.452.013,0
+Frankfurter Straße / Nohlenweg / Vingster Ring;8836;Stadt Köln;Kalk;23.618.181,9;56.448.424,0
+Frankfurter Straße / Rösrather Straße / Ostheimer Straße;8839;Stadt Köln;Kalk;23.623.295,8;56.438.287,0
+Frankfurter Straße / Saarbrücker Straße;8840;Stadt Köln;Kalk;23.626.162,1;56.432.767,1
+Frankfurter Straße / Suhler Weg;8948;Stadt Köln;Kalk;23.611.030,0;56.457.340,0
+Frankfurter Straße / Zehnthofstraße;8838;Stadt Köln;Kalk;23.622.370,2;56.440.155,7
+Gremberger Straße / An der Pulvermühle;8866;Stadt Köln;Kalk;23.590.236,6;56.440.792,8
+Gremberger Straße / Lüderichstraße;8860;Stadt Köln;Kalk;23.596.579,1;56.437.106,9
+Gremberger Straße / Poll-Vingster Straße;8859;Stadt Köln;Kalk;23.601.447,6;56.434.252,9
+Gremberger Straße / Rolshover Straße;8861;Stadt Köln;Kalk;23.594.451,5;56.438.389,9
+Gremberger Straße / Taunusstraße / Pfarrer-Moll-Straße;8865;Stadt Köln;Kalk;23.591.779,2;56.439.849,5
+Gremberger Straße / Theoderichstraße;8864;Stadt Köln;Kalk;23.592.318,3;56.439.547,4
+Gummersbacher Straße / B&B Hotel;8883;Stadt Köln;Kalk;23.589.118,8;56.449.617,7
+Hans-Schulten-Straße / Wiehler Straße;8874;Stadt Köln;Kalk;23.639.633,9;56.452.781,2
+Homarstraße / Kürtenstraße;8857;Stadt Köln;Kalk;23.606.808,0;56.438.090,0
+Kalker Hauptstraße / Breuerstraße;8809;Stadt Köln;Kalk;23.598.964,0;56.448.711,8
+Kalker Hauptstraße / Dieselstraße;8813;Stadt Köln;Kalk;23.603.543,7;56.449.866,2
+Kalker Hauptstraße / Eythstraße;8812;Stadt Köln;Kalk;23.602.615,9;56.449.639,8
+Kalker Hauptstraße / Kapellenstraße;8810;Stadt Köln;Kalk;23.600.774,5;56.449.188,4
+Kalker Hauptstraße / Kaufhof;8806;Stadt Köln;Kalk;23.595.931,8;56.448.089,7
+Kalker Hauptstraße / Neuerburgstraße;8808;Stadt Köln;Kalk;23.598.393,3;56.448.581,9
+Kalker Hauptstraße / Rolshover Straße / Kalk-Mülheimer Straße;8805;Stadt Köln;Kalk;23.595.007,3;56.447.992,3
+Kalker Hauptstraße / Sieversstraße;8807;Stadt Köln;Kalk;23.597.030,2;56.448.280,2
+Kalker Hauptstraße / Vietorstraße / Trimbornstraße;8804;Stadt Köln;Kalk;23.593.706,3;56.447.840,1
+Kalker Hauptstraße / Walter-Pauli-Ring / Deutz-Kalker Straße;8802;Stadt Köln;Kalk;23.590.670,2;56.447.489,3
+Kalker Hauptstraße / Wippermannstraße;8814;Stadt Köln;Kalk;23.604.745,5;56.450.137,5
+Kalk-Mülheimer Straße / Höfestraße / Peter-Stühlen-Straße;8959;Stadt Köln;Kalk;23.596.006,5;56.451.523,8
+Kalk-Mülheimer Straße / Wipperfürther Straße;8958;Stadt Köln;Kalk;23.595.954,8;56.454.407,7
+Lützerathstraße / Hilde-Ippolito-Weg;8849;Stadt Köln;Kalk;23.655.131,4;56.433.536,6
+Lützerathstraße / Rather Mauspfad;0824;StrNRW;Kalk;23.659.878,2;56.437.349,8
+Neubrücker Ring / Jugendheim;8876;Stadt Köln;Kalk;23.638.272,7;56.441.582,9
+Olpener Straße / BAB4 Refrath;0880;StrNRW;Kalk;23.663.937,5;56.457.904,7
+Olpener Straße / Bochumer Straße;8816;Stadt Köln;Kalk;23.609.602,8;56.450.490,2
+Olpener Straße / Brücker Mauspfad;8831;Stadt Köln;Kalk;23.651.814,1;56.455.806,5
+Olpener Straße / Burgstraße / Höhenberger Straße;8818;Stadt Köln;Kalk;23.612.947,3;56.450.354,1
+Olpener Straße / Flehbachstraße / Pohlstadtsweg;8829;Stadt Köln;Kalk;23.648.511,6;56.454.809,3
+Olpener Straße / Frankfurter Straße;8820;Stadt Köln;Kalk;23.616.759,3;56.450.299,0
+Olpener Straße / Fuldaer Straße / Regensburger Straße;8817;Stadt Köln;Kalk;23.610.293,7;56.450.502,1
+Olpener Straße / Germaniastraße / Oranienstraße;8815;Stadt Köln;Kalk;23.607.996,9;56.450.442,5
+Olpener Straße / Hans-Schulten-Straße;8827;Stadt Köln;Kalk;23.637.809,6;56.454.915,6
+Olpener Straße / Hohensyburgstraße;8823;Stadt Köln;Kalk;23.625.070,8;56.451.441,7
+Olpener Straße / Hovenstraße;8830;Stadt Köln;Kalk;23.650.552,3;56.455.287,6
+Olpener Straße / Im Brücker Bruch;8828;Stadt Köln;Kalk;23.645.605,3;56.456.170,3
+Olpener Straße / Iserlohner Straße / Fredeburger Straße;8822;Stadt Köln;Kalk;23.622.239,0;56.450.800,0
+Olpener Straße / Madausstraße;8826;Stadt Köln;Kalk;23.635.647,1;56.454.393,3
+Olpener Straße / Marburger Straße / Adalbertstraße;8819;Stadt Köln;Kalk;23.614.858,5;56.450.306,3
+Olpener Straße / Nohlenweg;8821;Stadt Köln;Kalk;23.620.315,4;56.450.395,5
+Olpener Straße / Ostmerheimer Straße / Kieskauler Weg;8825;Stadt Köln;Kalk;23.629.696,9;56.452.754,3
+Olpener Straße / Overather Straße / Hoffnungsthaler Straße;8832;Stadt Köln;Kalk;23.654.904,6;56.456.732,4
+Ostheimer Straße / Burgstraße / Kuthstraße;8853;Stadt Köln;Kalk;23.609.965,5;56.442.658,7
+Ostheimer Straße / Heßhofstraße;8852;Stadt Köln;Kalk;23.611.329,9;56.442.105,9
+Ostheimer Straße / Nobelstraße;8851;Stadt Köln;Kalk;23.613.605,1;56.441.168,8
+Ostheimer Straße / Vingster Ring;8850;Stadt Köln;Kalk;23.616.048,6;56.440.798,2
+Ostheimer Straße / Würzburger Straße / Homarstraße;8854;Stadt Köln;Kalk;23.607.549,3;56.443.009,1
+Östliche Zubringerstraße / Am Grauen Stein;8188;Stadt Köln;Kalk;23.589.487,9;56.435.942,2
+Östliche Zubringerstraße / Rolshover Straße;8181;Stadt Köln;Kalk;23.594.147,0;56.433.535,0
+Rather Mauspfad / Stachelsweg / Baldurstraße;8847;Stadt Köln;Kalk;23.661.280,9;56.433.336,4
+Rolshover Straße / Dillenburger Straße;8877;Stadt Köln;Kalk;23.595.354,7;56.445.316,5
+Rolshover Straße / Odenwaldstraße;8862;Stadt Köln;Kalk;23.594.734,9;56.439.919,4
+Rolshover Straße / Sauerlandstraße / GEW;8180;Stadt Köln;Kalk;23.594.232,0;56.435.110,0
+Rolshover Straße / Wetzlarer Straße / Gottfried-Hagen-Straße;8863;Stadt Köln;Kalk;23.595.634,4;56.442.844,6
+Rösrather Straße / Eiler Straße;8844;Stadt Köln;Kalk;23.651.917,9;56.428.577,4
+Rösrather Straße / Gröppersgasse / Röttgensweg;8845;Stadt Köln;Kalk;23.657.727,7;56.428.956,4
+Rösrather Straße / Hasencleverstraße / BAB3;8842;Stadt Köln;Kalk;23.633.794,8;56.436.953,2
+Rösrather Straße / Neubrücker Ring;8843;Stadt Köln;Kalk;23.636.772,8;56.435.827,5
+Rösrather Straße / Rather Mauspfad / Heumarer Mauspfad;8846;Stadt Köln;Kalk;23.663.132,2;56.426.580,2
+Rösrather Straße / Servatiusstraße / Hardtgenbuscher Kirchweg;8841;Stadt Köln;Kalk;23.627.691,5;56.438.388,3
+Straße des 17. Juni / Corintostraße / Erna-Scheffler-Straße;8885;Stadt Köln;Kalk;23.589.816,9;56.451.872,7
+Waldecker Straße / Solinger Straße / B55a / Buchforststraße;8954;Stadt Köln;Kalk;23.599.601,5;56.457.740,4
+Walter-Pauli-Ring / Straße des 17. Juni / Gummersbacher Straße / Geschwister-Katz-Straße;8884;Stadt Köln;Kalk;23.590.268,2;56.449.808,1
+Aachener Straße / Alter Militärring / Auf dem Hügel;3634;Stadt Köln;Lindenthal;23.511.200,0;56.450.377,9
+Aachener Straße / Am Rapohl / Bodelschwinghstraße;3656;Stadt Köln;Lindenthal;23.470.343,8;56.452.445,6
+Aachener Straße / Am Römerhof;3639;Stadt Köln;Lindenthal;23.501.815,3;56.450.734,7
+Aachener Straße / Am Sportpark Müngersdorf / Marathonweg;3638;Stadt Köln;Lindenthal;23.504.035,5;56.450.704,4
+Aachener Straße / BAB1 Ost;3646;Stadt Köln;Lindenthal;23.489.716,7;56.451.336,1
+Aachener Straße / BAB1 West;3648;Stadt Köln;Lindenthal;23.486.559,5;56.451.506,6
+Aachener Straße / Bahnstraße / Breslauer Straße;3649;Stadt Köln;Lindenthal;23.485.489,6;56.451.599,2
+Aachener Straße / Braunstraße / Hermann-Pflaume-Straße;3627;Stadt Köln;Lindenthal;23.523.447,0;56.449.444,2
+Aachener Straße / Bunzlauer Straße / Hans-Willy-Mertens-Straße;3651;Stadt Köln;Lindenthal;23.480.236,8;56.451.863,0
+Aachener Straße / Eschweilerstraße / HGK-Übergang;3629;Stadt Köln;Lindenthal;23.519.595,8;56.449.721,0
+Aachener Straße / Eupener Straße / Raschdorffstraße;3630;Stadt Köln;Lindenthal;23.517.749,7;56.449.846,2
+Aachener Straße / Friedhof-Melaten / Brucknerstraße;3622;Stadt Köln;Lindenthal;23.536.171,1;56.448.554,2
+Aachener Straße / Friedhof-Weiden;3657;Stadt Köln;Lindenthal;23.468.301,9;56.452.582,8
+Aachener Straße / Fürst-Pückler-Straße;3625;Stadt Köln;Lindenthal;23.526.960,7;56.449.231,2
+Aachener Straße / Goethestraße / An der Alten Post;3653;Stadt Köln;Lindenthal;23.477.722,9;56.452.055,3
+Aachener Straße / Haselbergstraße;3620;Stadt Köln;Lindenthal;23.540.822,4;56.448.316,9
+Aachener Straße / HST Weiden;3652;Stadt Köln;Lindenthal;23.478.856,5;56.451.904,1
+Aachener Straße / Innere Kanalstraße / Universitätsstraße;3619;Stadt Köln;Lindenthal;23.541.839,0;56.448.315,6
+Aachener Straße / Kirchweg / Brauweilerweg;3640;Stadt Köln;Lindenthal;23.501.024,9;56.450.736,9
+Aachener Straße / Kurze Straße / Körnerstraße;3647;Stadt Köln;Lindenthal;23.487.434,8;56.451.450,0
+Aachener Straße / Liebermannstraße / Kornblumenweg;3643;Stadt Köln;Lindenthal;23.497.137,5;56.450.865,0
+Aachener Straße / Lövenicher Weg / Wendelinstraße;3635;Stadt Köln;Lindenthal;23.508.735,0;56.450.535,0
+Aachener Straße / Maarweg / Kitschburger Straße;3626;Stadt Köln;Lindenthal;23.524.655,0;56.449.375,1
+Aachener Straße / Meister-Johann-Straße / Herbesthaler Straße;3631;Stadt Köln;Lindenthal;23.516.821,8;56.449.913,9
+Aachener Straße / Melatengürtel / Stadtwaldgürtel;3624;Stadt Köln;Lindenthal;23.530.565,4;56.449.044,5
+Aachener Straße / Mohnweg;3644;Stadt Köln;Lindenthal;23.494.552,9;56.451.040,3
+Aachener Straße / Moltkestraße / Frechener Weg;3655;Stadt Köln;Lindenthal;23.472.819,7;56.452.304,9
+Aachener Straße / Oskar-Jäger-Straße / Klosterstraße;3623;Stadt Köln;Lindenthal;23.533.496,0;56.448.765,1
+Aachener Straße / Oskar-Rehfeld-Weg / Stadion;3636;Stadt Köln;Lindenthal;23.507.533,5;56.450.573,1
+Aachener Straße / Peter-von-Fliessteden-Straße / Voigtelstraße;3628;Stadt Köln;Lindenthal;23.520.393,8;56.449.658,5
+Aachener Straße / Piusstraße / Richard-Strauß-Straße;3621;Stadt Köln;Lindenthal;23.539.903,0;56.448.344,3
+Aachener Straße / Römerstraße;3650;Stadt Köln;Lindenthal;23.483.043,6;56.451.738,8
+Aachener Straße / Rosenweg;3642;Stadt Köln;Lindenthal;23.498.716,8;56.450.820,8
+Aachener Straße / Schulstraße;3654;Stadt Köln;Lindenthal;23.474.896,1;56.452.180,4
+Aachener Straße / Vogelsanger Weg;3645;Stadt Köln;Lindenthal;23.491.147,9;56.451.218,8
+Aachener Straße / Walter-Binder-Weg / Peter-Günther-Weg;3637;Stadt Köln;Lindenthal;23.506.063,1;56.450.611,9
+Alter Militärring / Wendelinstraße;3104;Stadt Köln;Lindenthal;23.510.179,2;56.454.014,8
+Bachemer Straße / Gleueler Straße / Schule;3152;Stadt Köln;Lindenthal;23.538.028,1;56.439.942,2
+Bachemer Straße / Hans-Sachs-Straße ;3151;Stadt Köln;Lindenthal;23.539.345,4;56.441.428,5
+Bachemer Straße / Lindenburger Allee;3145;Stadt Köln;Lindenthal;23.535.183,3;56.438.859,1
+Bachemer Straße / Weyertal;3150;Stadt Köln;Lindenthal;23.540.468,4;56.441.607,0
+Belvederestraße / DB-Überführung / Schule;3108;Stadt Köln;Lindenthal;23.505.045,8;56.460.678,9
+Berrenrather Straße / Manderscheider Platz;3183;Stadt Köln;Lindenthal;23.539.247,0;56.424.545,7
+Berrenrather Straße / Neuenhöfer Allee;3801;Stadt Köln;Lindenthal;23.537.062,4;56.421.072,2
+Berrenrather Straße / Redwitzstraße / Schule;3181;Stadt Köln;Lindenthal;23.542.873,5;56.429.371,3
+Berrenrather Straße / Scherfginstraße / Schule;3184;Stadt Köln;Lindenthal;23.533.315,2;56.416.281,5
+Berrenrather Straße / Sülzburgstraße;3182;Stadt Köln;Lindenthal;23.541.035,4;56.427.234,7
+Berrenrather Straße / Weyertal / Arnulfstraße;3180;Stadt Köln;Lindenthal;23.544.463,1;56.431.353,0
+Brauweilerstraße / Goethestraße / Bahnstraße / Ludwig-Jahn-Straße;3111;Stadt Köln;Lindenthal;23.478.677,7;56.456.829,7
+Brauweilerstraße / Kölner Straße;3003;Stadt Köln;Lindenthal;23.476.082,4;56.460.186,5
+Brauweilerstraße / Moltkestraße;3004;Stadt Köln;Lindenthal;23.476.493,4;56.459.219,2
+Brauweilerstraße / Zaunstraße / Karl-Kaulen-Straße;3002;Stadt Köln;Lindenthal;23.475.348,5;56.461.577,3
+Brauweilerweg / Ludwig-Jahn-Straße / Vogelsanger Weg / Egelspfad;3109;Stadt Köln;Lindenthal;23.491.614,8;56.455.954,0
+Dürener Straße / Am Haelentor;0339;StrNRW;Lindenthal;23.505.656,3;56.435.004,1
+Dürener Straße / Autobahnmeisterei;0329;StrNRW;Lindenthal;23.485.894,4;56.429.254,7
+Dürener Straße / BAB1-Ost / Max-Planck-Straße West;0328;StrNRW;Lindenthal;23.486.980,8;56.429.591,8
+Dürener Straße / BAB1-West;0330;StrNRW;Lindenthal;23.482.952,1;56.428.410,8
+Dürener Straße / Classen-Kappellmann-Straße;3130;Stadt Köln;Lindenthal;23.538.624,0;56.443.349,1
+Dürener Straße / Emmy-Noether Straße;3143;Stadt Köln;Lindenthal;23.489.024,3;56.430.184,1
+Dürener Straße / Geibelstraße;3132;Stadt Köln;Lindenthal;23.536.107,2;56.442.114,7
+Dürener Straße / Hans-Sachs-Straße / Schallstraße;3131;Stadt Köln;Lindenthal;23.537.096,2;56.442.564,7
+Dürener Straße / Hermann-Heinrich-Gossen-Straße ;3141;Stadt Köln;Lindenthal;23.489.687,4;56.430.349,3
+Dürener Straße / Hillerstraße;3135;Stadt Köln;Lindenthal;23.531.921,3;56.439.673,3
+Dürener Straße / Horbeller Straße;3139;Stadt Köln;Lindenthal;23.493.463,7;56.431.401,4
+Dürener Straße / Klosterstraße / Lindenburger Allee;3133;Stadt Köln;Lindenthal;23.534.826,4;56.441.376,3
+Dürener Straße / Marsdorfer Straße;3138;Stadt Köln;Lindenthal;23.496.242,1;56.432.226,0
+Dürener Straße / Max-Planck-Straße Ost;3140;Stadt Köln;Lindenthal;23.492.340,2;56.431.086,9
+Dürener Straße / Militärringstraße;3137;Stadt Köln;Lindenthal;23.517.374,0;56.435.693,2
+Dürener Straße / Mommsenstraße / Kitschburger Straße;3870;Stadt Köln;Lindenthal;23.525.307,8;56.437.380,7
+Dürener Straße / Prälat-van-Acken-Straße ;3871;Stadt Köln;Lindenthal;23.521.782,0;56.436.525,0
+Dürener Straße / Salzburger Weg;0341;StrNRW;Lindenthal;23.503.012,6;56.434.218,1
+Dürener Straße / Stüttgenweg / Jakob-Kaiser-Str.;0340;StrNRW;Lindenthal;23.507.196,4;56.435.425,8
+Dürener Straße / Theresienstraße;3134;Stadt Köln;Lindenthal;23.533.466,0;56.440.578,1
+Euskirchener Straße / Mommsenstraße / Schule;3176;Stadt Köln;Lindenthal;23.534.755,5;56.427.089,9
+Gleueler Straße / Decksteiner Straße / Wende Bus;3157;Stadt Köln;Lindenthal;23.523.897,4;56.426.916,2
+Gleueler Straße / Freiligrathstraße;3156;Stadt Köln;Lindenthal;23.527.839,2;56.430.439,3
+Gleueler Straße / Joseph-Stelzmann-Straße / Geibelstraße;3153;Stadt Köln;Lindenthal;23.537.208,3;56.438.802,8
+Gleueler Straße / Lindenburger Allee / Schule;3154;Stadt Köln;Lindenthal;23.535.286,4;56.436.672,5
+Gleueler Straße / Mommsenstraße;3155;Stadt Köln;Lindenthal;23.529.194,8;56.431.932,1
+Gottesweg / Rhöndorfer Straße;3186;Stadt Köln;Lindenthal;23.547.161,9;56.422.476,6
+Gregor-Mendel-Ring / Belvederestraße;3006;Stadt Köln;Lindenthal;23.500.263,8;56.467.221,8
+Grüner Weg / Am Kliepesch / Frechener Weg;3124;Stadt Köln;Lindenthal;23.472.995,6;56.449.495,8
+Hauptstraße / Leonhardsgasse / Blaugasse;3001;Stadt Köln;Lindenthal;23.475.173,8;56.481.157,7
+Hauptstraße / Neue Sandkaul / Alte Sandkaul;3000;Stadt Köln;Lindenthal;23.479.327,6;56.483.150,1
+Hermeskeiler Straße / Neuenhöfer Allee;3175;Stadt Köln;Lindenthal;23.530.080,5;56.428.270,7
+Horbeller Straße / Toyota-Allee;3142;Stadt Köln;Lindenthal;23.495.124,9;56.425.990,3
+Innere Kanalstraße / Hollarstraße;3190;Stadt Köln;Lindenthal;23.541.994,9;56.449.491,0
+Kerpener Straße / Joseph-Stelzmann-Straße;3162;Stadt Köln;Lindenthal;23.538.774,6;56.433.890,9
+Kerpener Straße / Rurstraße;3163;Stadt Köln;Lindenthal;23.535.513,7;56.433.183,0
+Kerpener Straße / Weyertal;3160;Stadt Köln;Lindenthal;23.542.642,4;56.435.251,5
+Kirchweg / Frankenstraße / Am Römerhof;3117;Stadt Köln;Lindenthal;23.500.859,7;56.450.144,2
+Klettenberggürtel / Petersbergstraße;3187;Stadt Köln;Lindenthal;23.542.061,7;56.419.944,3
+Klettenberggürtel / Rhöndorfer Straße;3189;Stadt Köln;Lindenthal;23.544.818,1;56.417.621,8
+Klettenberggürtel / Siebengebirgsallee;3188;Stadt Köln;Lindenthal;23.543.601,0;56.418.647,9
+Kölner Straße / Otterweg / Biberweg;3005;Stadt Köln;Lindenthal;23.479.093,3;56.461.164,8
+Kölner Weg / Am Weidenpesch / Kirchweg;3119;Stadt Köln;Lindenthal;23.494.437,7;56.444.519,6
+Lindenthalgürtel / Bachemer Straße;3814;Stadt Köln;Lindenthal;23.531.320,7;56.436.989,0
+Lindenthalgürtel / Franzstraße;3812;Stadt Köln;Lindenthal;23.532.226,3;56.435.143,9
+Lindenthalgürtel / Gleueler Straße;3811;Stadt Köln;Lindenthal;23.532.413,3;56.434.059,6
+Lindenthalgürtel / Herderstraße;3813;Stadt Köln;Lindenthal;23.531.610,2;56.436.429,8
+Lindenthalgürtel / Kerpener Straße;3810;Stadt Köln;Lindenthal;23.533.510,0;56.432.778,2
+Lindenthalgürtel / Rurstraße;3809;Stadt Köln;Lindenthal;23.533.972,8;56.431.757,8
+Lise-Meitner-Ring / Egelspfad;0307;StrNRW;Lindenthal;23.491.285,0;56.466.266,0
+Lise-Meitner-Ring / Ottostraße;0306;StrNRW;Lindenthal;23.483.034,7;56.467.971,0
+Ludwig-Jahn-Straße / Stormstraße;3110;Stadt Köln;Lindenthal;23.486.376,6;56.455.864,0
+Luxemburger Straße / Arnulfstraße;3507;Stadt Köln;Lindenthal;23.545.480,2;56.428.264,7
+Luxemburger Straße / BAB4-Ost;0325;StrNRW;Lindenthal;23.530.684,5;56.407.200,5
+Luxemburger Straße / BAB4-West;0326;StrNRW;Lindenthal;23.529.215,0;56.405.023,8
+Luxemburger Straße / Breibergstraße / Manderscheider Straße;3512;Stadt Köln;Lindenthal;23.541.147,9;56.422.126,8
+Luxemburger Straße / Geisbergstraße / Klettenbergpark;3517;Stadt Köln;Lindenthal;23.536.976,0;56.416.242,6
+Luxemburger Straße / Gottesweg;3520;Stadt Köln;Lindenthal;23.542.691,2;56.424.349,5
+Luxemburger Straße / Greinstraße / Wende-Amts.-u. Landgericht ;3504;Stadt Köln;Lindenthal;23.548.278,4;56.432.309,5
+Luxemburger Straße / Hardtstraße;3511;Stadt Köln;Lindenthal;23.542.007,5;56.423.359,7
+Luxemburger Straße / Klettenberggürtel / Sülzgürtel;3513;Stadt Köln;Lindenthal;23.540.530,7;56.421.221,4
+Luxemburger Straße / Konradstraße / Rennebergstraße;3506;Stadt Köln;Lindenthal;23.546.318,9;56.429.451,3
+Luxemburger Straße / Lotharstraße / Leybergstraße;3508;Stadt Köln;Lindenthal;23.544.874,6;56.427.398,7
+Luxemburger Straße / Militärringstraße;3521;HGK;Lindenthal;23.534.328,0;56.412.397,8
+Luxemburger Straße / Nassestraße;3516;Stadt Köln;Lindenthal;23.538.692,3;56.418.584,4
+Luxemburger Straße / Neuenhöfer Allee / Schule;3515;Stadt Köln;Lindenthal;23.539.151,1;56.419.286,2
+Luxemburger Straße / Ölbergstraße;3514;Stadt Köln;Lindenthal;23.539.745,1;56.420.112,6
+Luxemburger Straße / Scherfginstraße;3518;Stadt Köln;Lindenthal;23.535.687,2;56.414.323,8
+Luxemburger Straße / Sülzburgstraße / Gottesweg ;3510;Stadt Köln;Lindenthal;23.543.165,8;56.424.996,7
+Luxemburger Straße / Universitätsstraße / Weißhausstraße;3505;Stadt Köln;Lindenthal;23.547.116,1;56.430.599,6
+Luxemburger Straße / Wittekindstraße;3509;Stadt Köln;Lindenthal;23.544.014,6;56.426.182,9
+Maarweg / Stolberger Straße;3100;Stadt Köln;Lindenthal;23.523.739,2;56.454.655,7
+Melatengürtel / Scheidtweilerstraße;3821;Stadt Köln;Lindenthal;23.531.038,5;56.450.366,1
+Militärringstraße / Aachener Straße Nord;3105;Stadt Köln;Lindenthal;23.512.798,2;56.452.348,2
+Militärringstraße / Aachener Straße Süd;3106;Stadt Köln;Lindenthal;23.512.888,8;56.449.387,5
+Militärringstraße / Berrenrather Straße;0311;StrNRW;Lindenthal;23.532.144,4;56.415.048,3
+Militärringstraße / Friedrich-Schmidt-Straße;0313;StrNRW;Lindenthal;23.514.777,1;56.446.240,7
+Militärringstraße / Gleueler Straße;0312;StrNRW;Lindenthal;23.520.789,6;56.424.486,0
+Militärringstraße / Unterer Komarweg;0310;StrNRW;Lindenthal;23.538.183,6;56.407.306,8
+Militärringstraße / Widdersdorfer Straße;0345;StrNRW;Lindenthal;23.508.973,4;56.460.546,1
+Ostlandstraße / An der Alten Post;3123;Stadt Köln;Lindenthal;23.477.418,4;56.449.071,7
+Ostlandstraße / Breslauer Straße / Diepenbeekallee;3121;Stadt Köln;Lindenthal;23.484.649,1;56.448.651,4
+Ostlandstraße / Göttinger Straße / Stettiner Weg;3122;Stadt Köln;Lindenthal;23.482.236,0;56.448.859,7
+Stadtwaldgürtel / Clarenbachstraße;3819;Stadt Köln;Lindenthal;23.530.298,7;56.447.923,6
+Stadtwaldgürtel / Dürener Straße;3815;Stadt Köln;Lindenthal;23.530.406,9;56.438.754,3
+Stadtwaldgürtel / Friedrich-Schmidt-Straße;3818;Stadt Köln;Lindenthal;23.530.025,3;56.446.123,6
+Stadtwaldgürtel / Rautenstrauchstraße;3817;Stadt Köln;Lindenthal;23.529.876,8;56.444.442,5
+Stadtwaldgürtel / Wüllnerstraße;3816;Stadt Köln;Lindenthal;23.529.887,1;56.442.579,9
+Stolberger Straße / Linnicher Straße / Kindergarten;3102;Stadt Köln;Lindenthal;23.514.216,6;56.456.172,0
+Sülzgürtel / Berrenrather Straße;3803;Stadt Köln;Lindenthal;23.538.525,4;56.423.411,3
+Sülzgürtel / Curtiusstraße;3807;Stadt Köln;Lindenthal;23.535.141,9;56.428.988,4
+Sülzgürtel / Euskirchener Straße;3806;Stadt Köln;Lindenthal;23.535.530,7;56.427.697,8
+Sülzgürtel / Lindenthalgürtel / Zülpicher Straße;3808;Stadt Köln;Lindenthal;23.534.698,1;56.430.353,4
+Sülzgürtel / Mommsenstraße / Hollerather Straße;3805;Stadt Köln;Lindenthal;23.535.874,0;56.426.543,1
+Sülzgürtel / Münstereifeler Straße;3804;Stadt Köln;Lindenthal;23.536.764,0;56.425.472,2
+Sülzgürtel / Wichterichstraße / Nonnewerthstraße;3802;Stadt Köln;Lindenthal;23.539.549,3;56.422.260,9
+Universitätsstraße / Bachemer Straße / Innerer Gürtel;3192;Stadt Köln;Lindenthal;23.542.953,0;56.441.975,2
+Universitätsstraße / Berrenrather Straße;3196;Stadt Köln;Lindenthal;23.546.025,0;56.433.221,7
+Universitätsstraße / Dürener Straße;3191;Stadt Köln;Lindenthal;23.541.798,0;56.444.871,0
+Universitätsstraße / Kerpener Straße;3195;Stadt Köln;Lindenthal;23.545.089,4;56.436.024,5
+Universitätsstraße / Zülpicher Straße;3194;Stadt Köln;Lindenthal;23.545.274,9;56.435.443,6
+Vitalisstraße / Stolberger Straße / Wendelinstraße;3103;Stadt Köln;Lindenthal;23.512.181,4;56.456.321,9
+Vogelsanger Weg / Blumenallee / Eifelallee;3120;Stadt Köln;Lindenthal;23.491.635,5;56.448.447,2
+Weißhausstraße / Rhöndorfer Straße / Rudolf-Amelunxen-Straße;3197;Stadt Köln;Lindenthal;23.550.148,3;56.428.144,8
+Widdersdorfer Straße / Girlitzweg;3126;Stadt Köln;Lindenthal;23.512.626,0;56.461.342,8
+Widdersdorfer Straße / Handelshof;3127;Stadt Köln;Lindenthal;23.512.075,6;56.461.248,4
+Widdersdorfer Straße / Josef-Lammerting-Allee / Vitalisstraße;3125;Stadt Köln;Lindenthal;23.516.459,2;56.460.650,7
+Widdersdorfer Straße / Vitalisstraße;3107;Stadt Köln;Lindenthal;23.514.990,0;56.460.965,7
+Zülpicher Straße / Freiligrathstraße / Krieler Dom;3174;Stadt Köln;Lindenthal;23.528.128,7;56.429.365,8
+Zülpicher Straße / Joseph-Stelzmann-Straße / Gustavstraße;3171;Stadt Köln;Lindenthal;23.539.271,8;56.432.339,7
+Zülpicher Straße / Meister-Ekkehart-Straße;3169;Stadt Köln;Lindenthal;23.546.471,1;56.436.732,8
+Zülpicher Straße / Mommsenstraße / Hermeskeiler Straße;3173;Stadt Köln;Lindenthal;23.531.611,8;56.429.753,4
+Zülpicher Straße / Sülzburgstraße;3172;Stadt Köln;Lindenthal;23.537.125,6;56.431.236,2
+Zülpicher Straße / Weyertal;3170;Stadt Köln;Lindenthal;23.543.081,4;56.434.236,0
+Alte Wipperfürther Straße / Schule;9964;Stadt Köln;Mülheim;23.606.900,2;56.468.022,8
+Bergisch Gladbacher Straße / Ackerstraße;9904;Stadt Köln;Mülheim;23.608.715,0;56.477.112,5
+Bergisch Gladbacher Straße / BAB3 Ost;9909;Stadt Köln;Mülheim;23.618.722,0;56.480.036,2
+Bergisch Gladbacher Straße / BAB3 West;9908;Stadt Köln;Mülheim;23.616.414,1;56.479.333,6
+Bergisch Gladbacher Straße / Biesfelder Straße;9921;Stadt Köln;Mülheim;23.648.571,5;56.493.890,9
+Bergisch Gladbacher Straße / Carlswerkstraße;9903;Stadt Köln;Mülheim;23.607.883,7;56.476.846,2
+Bergisch Gladbacher Straße / Clevischer Ring;9130;Stadt Köln;Mülheim;23.599.386,7;56.477.023,0
+Bergisch Gladbacher Straße / Dellbrücker Hauptstraße;9920;Stadt Köln;Mülheim;23.645.493,5;56.492.265,2
+Bergisch Gladbacher Straße / Dellbrücker Mauspfad / Kaserne;9918;Stadt Köln;Mülheim;23.639.581,0;56.489.093,9
+Bergisch Gladbacher Straße / Feuerwache / Wichheimer Straße;9905;Stadt Köln;Mülheim;23.610.251,7;56.477.548,3
+Bergisch Gladbacher Straße / Genovevabad / Schule;9901;Stadt Köln;Mülheim;23.602.580,0;56.475.432,0
+Bergisch Gladbacher Straße / Grafenmühlenweg / Urnenstraße;9919;Stadt Köln;Mülheim;23.642.780,6;56.490.807,7
+Bergisch Gladbacher Straße / Gronauer Straße;9906;Stadt Köln;Mülheim;23.614.277,0;56.478.710,0
+Bergisch Gladbacher Straße / Heidestraße / Hagedornstraße;9917;Stadt Köln;Mülheim;23.637.609,4;56.488.052,5
+Bergisch Gladbacher Straße / Herler Ring;9907;Stadt Köln;Mülheim;23.615.114,2;56.478.963,3
+Bergisch Gladbacher Straße / Honschaftsstraße;9910;Stadt Köln;Mülheim;23.619.560,2;56.480.273,2
+Bergisch Gladbacher Straße / Johann-Bensberg-Straße / Buschfeldstraße;9912;Stadt Köln;Mülheim;23.622.860,7;56.481.219,5
+Bergisch Gladbacher Straße / Keupstraße / Montanusstraße;9902;Stadt Köln;Mülheim;23.604.555,6;56.475.861,0
+Bergisch Gladbacher Straße / Maria-Himmelfahrt-Straße;9913;Stadt Köln;Mülheim;23.627.135,2;56.482.496,3
+Bergisch Gladbacher Straße / Rodfeldstraße / Rodstraße;9914;Stadt Köln;Mülheim;23.630.120,2;56.484.051,8
+Bergisch Gladbacher Straße / Schwabstraße;9915;Stadt Köln;Mülheim;23.632.881,4;56.485.514,4
+Bergisch Gladbacher Straße / Steyler Straße;9967;Stadt Köln;Mülheim;23.620.400,3;56.480.509,2
+Bergisch Gladbacher Straße / Thielenbrucher Allee;9923;Stadt Köln;Mülheim;23.657.655,0;56.495.812,4
+Bergisch Gladbacher Straße / Vischeringstraße / Ringenstraße;9911;Stadt Köln;Mülheim;23.621.830,1;56.480.926,3
+Bergisch Gladbacher Straße / Von-Quadt-Straße / Otto-Kayser-Straße;9922;Stadt Köln;Mülheim;23.651.220,5;56.495.303,9
+Bergisch Gladbacher Straße / Wasserwerkstraße / Drosselbartstraße;9916;Stadt Köln;Mülheim;23.636.308,3;56.487.356,0
+Bergisch Gladbacher Straße / Zufahrt Zollkriminalamt;9931;Stadt Köln;Mülheim;23.641.614,5;56.490.208,8
+Bergischer Ring / Danzierstraße / Papageienstraße;9119;Stadt Köln;Mülheim;23.597.324,0;56.472.584,0
+Bergischer Ring / Rendsburger Platz;9117;Stadt Köln;Mülheim;23.595.810,2;56.468.582,3
+Bergischer Ring / Schleiermacherstraße;9118;Stadt Köln;Mülheim;23.596.107,7;56.469.500,7
+Bergisch-Gladbacher Straße / Genovevastraße / Schule;9196;Stadt Köln;Mülheim;23.600.069,9;56.476.624,9
+Berliner Straße / Am Emberg;9148;Stadt Köln;Mülheim;23.617.261,7;56.504.921,7
+Berliner Straße / Cottbuser Straße / Neurather Weg;9144;Stadt Köln;Mülheim;23.610.361,6;56.493.225,4
+Berliner Straße / Fixheider Weg;9146;Stadt Köln;Mülheim;23.613.372,5;56.496.644,9
+Berliner Straße / Im Weidenbruch;9145;Stadt Köln;Mülheim;23.611.577,7;56.494.586,7
+Berliner Straße / Leuchterstraße / Schweidnitzer Straße;9149;Stadt Köln;Mülheim;23.622.485,1;56.512.693,8
+Berliner Straße / Odenthaler Straße / Kunstfelder Straße;9151;Stadt Köln;Mülheim;23.625.829,1;56.518.491,1
+Berliner Straße / Posadowskystraße ;9147;Stadt Köln;Mülheim;23.615.401,7;56.498.902,3
+Berliner Straße / Prämonstratenserstraße;9150;Stadt Köln;Mülheim;23.623.538,1;56.516.042,9
+Berliner Straße / Steinkaulerstraße / Buswendeschleife;9980;Stadt Köln;Mülheim;23.606.259,1;56.489.540,0
+Buchheimer Ring / B55a;9935;Stadt Köln;Mülheim;23.614.460,5;56.462.140,7
+Buchheimer Ring / Schlagbaumsweg;9934;Stadt Köln;Mülheim;23.615.922,5;56.468.315,0
+Buchheimer Ring / Schützengildeweg;9962;Stadt Köln;Mülheim;23.614.928,9;56.470.206,5
+Burgwiesenstraße / Isenburger Kirchweg;9930;Stadt Köln;Mülheim;23.625.756,6;56.476.651,9
+Clevischer Ring / Berliner Straße / Dünnwalder Straße;9133;Stadt Köln;Mülheim;23.600.533,4;56.483.144,1
+Clevischer Ring / Carl-Brisch-Straße;9131;Stadt Köln;Mülheim;23.599.747,5;56.477.897,8
+Clevischer Ring / Hacketäuerstraße;9983;Stadt Köln;Mülheim;23.600.523,0;56.485.804,0
+Clevischer Ring / Keupstraße;9132;Stadt Köln;Mülheim;23.600.200,4;56.480.320,9
+Clevischer Ring / Markgrafenstraße;9982;Stadt Köln;Mülheim;23.600.356,2;56.481.691,4
+Clevischer Ring / Mülheimer Zubringer;9136;Stadt Köln;Mülheim;23.599.112,3;56.491.077,8
+Clevischer Ring / Von-Sparr-Straße / Von-Lohe-Straße;9134;Stadt Köln;Mülheim;23.600.113,0;56.487.803,0
+Danzierstraße / Schleiermacherstraße / Schule;9127;Stadt Köln;Mülheim;23.595.090,2;56.471.519,4
+Danzierstraße / Windmühlenstraße / Karl-Theodor-Straße;9126;Stadt Köln;Mülheim;23.592.493,7;56.469.948,0
+Dellbrücker Hauptstraße / Friedhof-Dellbrück / Schule;9925;Stadt Köln;Mülheim;23.648.861,3;56.485.918,4
+Dellbrücker Mauspfad / Friedhof-Ost;0931;StrNRW;Mülheim;23.646.578,9;56.476.504,7
+Deutz-Mülheimer Straße / Adam-Stegerwald-Straße;9121;Stadt Köln;Mülheim;23.586.930,6;56.462.579,8
+Deutz-Mülheimer Straße / Auenweg;9124;Stadt Köln;Mülheim;23.589.867,1;56.467.613,4
+Deutz-Mülheimer Straße / Danzierstraße;9125;Stadt Köln;Mülheim;23.591.265,4;56.470.008,0
+Diepeschrather Straße / Anemonenweg;9924;Stadt Köln;Mülheim;23.644.252,1;56.495.321,5
+Dünnwalder Mauspfad / Kalkweg / Am Wildpark;0970;StrNRW;Mülheim;23.629.745,6;56.508.495,7
+Düsseldorfer Straße / Buschweg / Bayer-Süd;0983;StrNRW;Mülheim;23.593.298,0;56.522.438,8
+Düsseldorfer Straße / Carl Duisberg Bad / Otto-Bayer-Straße;0981;StrNRW;Mülheim;23.592.199,1;56.529.852,1
+Düsseldorfer Straße / Höhenhauser Ring;0986;StrNRW;Mülheim;23.596.065,9;56.504.188,8
+Düsseldorfer Straße / Manforter Straße;9137;Stadt Köln;Mülheim;23.597.860,7;56.494.645,9
+Düsseldorfer Straße / Pförtner Flittard O. / Bayer-Nord;0982;StrNRW;Mülheim;23.592.746,3;56.525.969,4
+Düsseldorfer Straße / Ricarda-Huch-Straße / Moses-Heß-Straße;0987;StrNRW;Mülheim;23.595.934,2;56.501.838,7
+Düsseldorfer Straße / Roggendorfstraße / Grüner Kuhweg;0984;StrNRW;Mülheim;23.594.411,7;56.515.559,2
+Düsseldorfer Straße / Stammheimer Ring / Dünnwalder Kommunalweg;0985;StrNRW;Mülheim;23.595.967,6;56.505.581,7
+Edelhofstraße / Am Feldrain / Schule;9161;Stadt Köln;Mülheim;23.583.300,7;56.515.606,4
+Frankfurter Straße / Ackerstraße;9941;Stadt Köln;Mülheim;23.604.584,1;56.468.276,2
+Frankfurter Straße / Alte Wipperfürther Straße;9942;Stadt Köln;Mülheim;23.605.080,4;56.467.685,6
+Frankfurter Straße / Arnsberger Straße;9943;Stadt Köln;Mülheim;23.604.952,7;56.466.270,0
+Frankfurter Straße / B55a Nord;9946;Stadt Köln;Mülheim;23.608.395,0;56.460.615,0
+Frankfurter Straße / Germaniastraße / Modemannstraße;9945;Stadt Köln;Mülheim;23.606.235,3;56.463.290,0
+Frankfurter Straße / Graf-Adolf-Straße;9939;Stadt Köln;Mülheim;23.602.386,7;56.470.857,2
+Frankfurter Straße / Heidelberger Straße;9944;Stadt Köln;Mülheim;23.604.976,9;56.464.898,1
+Frankfurter Straße / Merkerhofstraße / Rhodiusstraße;9936;Stadt Köln;Mülheim;23.600.530,2;56.473.036,0
+Frankfurter Straße / Montanusstraße / Vincenzstraße;9940;Stadt Köln;Mülheim;23.603.418,5;56.469.632,4
+Graf-Adolf-Straße / Sonderburger Straße / Schule;9961;Stadt Köln;Mülheim;23.600.461,7;56.469.533,6
+Heidelberger Straße / Kalk-Mülheimer Straße / Karlsruher Straße;9953;Stadt Köln;Mülheim;23.596.089,1;56.461.887,8
+Heidelberger Straße / Kopernikusstraße;9969;Stadt Köln;Mülheim;23.602.298,4;56.464.015,6
+Heidelberger Straße / Waldecker Straße;9950;Stadt Köln;Mülheim;23.598.785,5;56.462.767,7
+Herler Ring / Wuppertaler Straße / Wichheimer Straße;9933;Stadt Köln;Mülheim;23.614.423,9;56.473.779,2
+Honschaftsstraße / Piccoloministraße;9156;Stadt Köln;Mülheim;23.618.378,1;56.484.343,8
+Honschaftsstraße / Sigwinstraße / Am Springborn;9155;Stadt Köln;Mülheim;23.618.636,0;56.489.918,6
+Im Weidenbruch / Birkenweg / Schule;9152;Stadt Köln;Mülheim;23.625.105,9;56.498.715,7
+Im Weidenbruch / Honschaftsstraße / Schule;9154;Stadt Köln;Mülheim;23.618.963,9;56.495.759,8
+Im Weidenbruch / Im Weidenkamp;9153;Stadt Köln;Mülheim;23.621.619,5;56.496.915,5
+Keupstraße / Schanzenstraße;9143;Stadt Köln;Mülheim;23.602.075,8;56.479.098,9
+Markgrafenstraße / Von-Sparr-Straße;9981;Stadt Köln;Mülheim;23.603.848,0;56.484.830,3
+Mielenforster Straße / Bensberger Marktweg;9968;Stadt Köln;Mülheim;23.647.626,2;56.479.742,0
+Mülheimer Freiheit / Düsseldorfer Straße / Dünnwalder Straße;9140;Stadt Köln;Mülheim;23.597.748,0;56.481.210,2
+Mülheimer Freiheit / Krahnenstraße / Schule;9158;Stadt Köln;Mülheim;23.596.225,2;56.480.424,7
+Neufelder Straße / Krankenhaus Holweide;9927;Stadt Köln;Mülheim;23.635.987,1;56.480.840,2
+Pfälzischer Ring / Grünstraße / Bergischer Ring;9116;Stadt Köln;Mülheim;23.595.123,3;56.467.146,3
+Pfälzischer Ring / Karlsruher Straße;9115;Stadt Köln;Mülheim;23.591.212,6;56.461.334,8
+Piccoloministraße / Buschfeldstraße;9929;Stadt Köln;Mülheim;23.623.399,1;56.485.057,9
+Piccoloministraße / Ernststraße;9928;Stadt Köln;Mülheim;23.629.370,5;56.485.741,3
+Roggendorf Straße / Alfred-Werner-Straße;9160;Stadt Köln;Mülheim;23.590.715,0;56.516.558,3
+Schlagbaumsweg / An der Wasserburg;9932;Stadt Köln;Mülheim;23.625.917,7;56.471.194,1
+Schlagbaumsweg / Colonia Allee / Isenburger Kirchweg / Ostmerheimer Straße;9966;Stadt Köln;Mülheim;23.626.964,4;56.471.712,8
+Schnellweider Straße / Musäusstraße;9965;Stadt Köln;Mülheim;23.631.766,9;56.483.208,3
+Wiener Platz / Frankfurter Straße / Eulenbergstraße;9129;Stadt Köln;Mülheim;23.599.404,7;56.474.539,7
+Wiener Platz / Mülheimer Brücke;9128;Stadt Köln;Mülheim;23.598.313,2;56.474.764,3
+Am Bilderstöckchen / Alzeyer Straße;5027;Stadt Köln;Nippes;23.544.005,0;56.489.313,9
+Amsterdamer Straße / Barbarastraße;5704;Stadt Köln;Nippes;23.573.981,5;56.482.959,2
+Amsterdamer Straße / Friedrich-Karl-Straße;5707;Stadt Köln;Nippes;23.574.224,0;56.489.383,4
+Amsterdamer Straße / Kinderkrankenhaus;5701;Stadt Köln;Nippes;23.573.264,2;56.476.523,4
+Amsterdamer Straße / Nesselrodestraße;5708;Stadt Köln;Nippes;23.573.959,8;56.493.216,6
+Amsterdamer Straße / Niehler Gürtel / KVB-Haltestelle;5705;Stadt Köln;Nippes;23.574.119,2;56.485.605,3
+Amsterdamer Straße / Riehler Gürtel;5703;Stadt Köln;Nippes;23.573.890,3;56.481.702,1
+Amsterdamer Straße / Wende / Neven DuMont;5706;Stadt Köln;Nippes;23.574.225,8;56.487.855,4
+Amsterdamer Straße / Wende-Flora;5700;Stadt Köln;Nippes;23.572.739,0;56.472.986,5
+Amsterdamer Straße / Xantener Straße;5702;Stadt Köln;Nippes;23.573.773,2;56.480.055,9
+Äußere Kanalstraße / Escher Straße / Robert-Perthel-Straße;5022;Stadt Köln;Nippes;23.541.203,3;56.488.875,6
+Boltensternstraße / Amsterdamer Straße / Industriestraße;5219;Stadt Köln;Nippes;23.573.536,3;56.497.807,7
+Boltensternstraße / Barbarastraße;5237;Stadt Köln;Nippes;23.580.576,1;56.483.831,5
+Boltensternstraße / Friedrich-Karl-Straße / Am Niehler Hafen;5218;Stadt Köln;Nippes;23.577.854,8;56.490.060,1
+Boltensternstraße / Hittorfstraße;5238;Stadt Köln;Nippes;23.581.663,5;56.480.064,9
+Boltensternstraße / Niehler Gürtel / Flemmingstraße;5220;Stadt Köln;Nippes;23.580.025,0;56.485.067,7
+Boltensternstraße / Pasteurstraße / SB-Warenhaus;5216;Stadt Köln;Nippes;23.579.021,8;56.487.339,9
+Boltensternstraße / Pionierstraße;5239;Stadt Köln;Nippes;23.581.958,7;56.478.737,1
+Boltensternstraße / Stammheimer Straße;5217;Stadt Köln;Nippes;23.581.119,1;56.481.932,2
+Bremerhavener Straße / Emdener Straße;5009;Stadt Köln;Nippes;23.564.782,1;56.513.592,9
+Emdener Straße / Am Ölhafen;5001;Stadt Köln;Nippes;23.565.707,4;56.537.538,4
+Emdener Straße / Ford Tor 6;5005;Stadt Köln;Nippes;23.565.409,6;56.526.861,7
+Emdener Straße / Ford Tor 8+24;5004;Stadt Köln;Nippes;23.565.490,5;56.530.420,7
+Emdener Straße / Geestemünder Straße;5007;Stadt Köln;Nippes;23.565.146,4;56.521.062,8
+Friedrich-Karl-Straße / Duisburger Straße / Castroper Straße;5142;Stadt Köln;Nippes;23.571.556,8;56.489.271,8
+Friedrich-Karl-Straße / Niehler Kirchweg;5141;Stadt Köln;Nippes;23.565.500,0;56.489.322,3
+Frohngasse / Alter Stammheimer Weg / An der Flora;5221;Stadt Köln;Nippes;23.575.021,3;56.471.015,4
+Geestemünder Straße / Anbindung Industriestr-Ost;5002;Stadt Köln;Nippes;23.562.113,5;56.521.210,3
+Geestemünder Straße / Delmenhorster Straße / Industriestraße;5003;Stadt Köln;Nippes;23.559.892,3;56.521.191,7
+Geestemünder Straße / Franz-Greiß-Straße;5018;Stadt Köln;Nippes;23.554.057,8;56.521.369,3
+Geestemünder Straße / Johann-Maria-Farina-Straße;5006;Stadt Köln;Nippes;23.557.726,4;56.521.252,9
+Geldernstraße / Escher Straße;5110;Stadt Köln;Nippes;23.553.032,2;56.473.445,4
+Innere Kanalstraße / Neusser Straße;5120;Stadt Köln;Nippes;23.564.297,5;56.470.475,3
+Innere Kanalstraße / Niehler Straße;5130;Stadt Köln;Nippes;23.565.738,0;56.471.102,1
+Johannes-Rings-Straße / Longericher Straße / Hohlgasse;5824;Stadt Köln;Nippes;23.536.124,8;56.514.821,0
+Kempener Straße / An der Drehscheibe;5102;Stadt Köln;Nippes;23.557.353,7;56.480.887,4
+Kempener Straße / Cranachstraße / Christinastraße;5117;Stadt Köln;Nippes;23.562.204,2;56.475.121,4
+Kempener Straße / Merheimer Straße;5113;Stadt Köln;Nippes;23.558.925,8;56.479.047,3
+Kempener Straße / Simon-Meister-Straße / Schule;5112;Stadt Köln;Nippes;23.557.916,5;56.480.308,1
+Kempener Straße / Steinbergerstraße / Auguststraße;5116;Stadt Köln;Nippes;23.561.805,1;56.475.591,9
+Kempener Straße / Wilhelmstraße;5115;Stadt Köln;Nippes;23.560.989,3;56.476.543,7
+Liebigstraße / Geldernstraße / Osterather Straße;5111;Stadt Köln;Nippes;23.552.640,2;56.471.877,4
+Longericher Hauptstraße / Auf der Bude / Schule;5021;Stadt Köln;Nippes;23.529.986,9;56.515.461,2
+Longericher Straße / Rommerskircher Straße;5020;Stadt Köln;Nippes;23.534.822,2;56.518.315,3
+Mauenheimer Gürtel / Merheimer Straße;5106;Stadt Köln;Nippes;23.558.141,2;56.486.886,2
+Merheimer Straße / Bergstraße;5105;Stadt Köln;Nippes;23.558.184,2;56.488.925,7
+Merheimer Straße / Friedrich-Karl-Straße / Nibelungenstraße;5104;Stadt Köln;Nippes;23.558.361,9;56.491.570,2
+Militärringstraße / BAB57-Ost;0518;StrNRW;Nippes;23.523.830,6;56.513.464,4
+Militärringstraße / Heimersdorfer Straße;0540;StrNRW;Nippes;23.530.560,9;56.518.769,0
+Militärringstraße / Herforder Straße;0543;StrNRW;Nippes;23.545.819,4;56.517.017,8
+Militärringstraße / Kaserne Lüttich;0563;StrNRW;Nippes;23.541.063,0;56.518.162,2
+Militärringstraße / Lindweilerweg;0539;StrNRW;Nippes;23.525.196,7;56.514.893,8
+Militärringstraße / Mercatorstraße / Longericher Straße;0521;StrNRW;Nippes;23.535.040,2;56.518.926,8
+Militärringstraße / Volkhovener Weg;0520;StrNRW;Nippes;23.528.060,4;56.517.570,0
+Neusser Landstraße / Geestemünder Straße;5017;Stadt Köln;Nippes;23.550.014,7;56.521.478,9
+Neusser Straße / Blücherstraße / Schillstraße;5126;Stadt Köln;Nippes;23.562.869,5;56.481.091,1
+Neusser Straße / Derfflingerstraße;5812;Stadt Köln;Nippes;23.559.715,8;56.496.288,1
+Neusser Straße / Florastraße / Einheitstraße;5125;Stadt Köln;Nippes;23.563.053,5;56.479.465,6
+Neusser Straße / Florianschule-Weidenpesch;5813;Stadt Köln;Nippes;23.559.493,4;56.498.912,8
+Neusser Straße / Friedrich-Karl-Straße;5128;Stadt Köln;Nippes;23.560.869,4;56.490.707,6
+Neusser Straße / Jesuitengasse;5816;Stadt Köln;Nippes;23.557.027,1;56.506.193,8
+Neusser Straße / Kempener Straße / Auerstraße;5122;Stadt Köln;Nippes;23.563.500,0;56.473.719,8
+Neusser Straße / Kuenstraße / Cranachstraße;5123;Stadt Köln;Nippes;23.563.514,1;56.475.050,1
+Neusser Straße / Lachemer Weg;5818;Stadt Köln;Nippes;23.555.734,1;56.508.597,9
+Neusser Straße / Lohsestraße;5121;Stadt Köln;Nippes;23.563.742,6;56.472.549,2
+Neusser Straße / Militärringstraße / Bremerhavener Straße;5016;Stadt Köln;Nippes;23.552.351,6;56.515.470,0
+Neusser Straße / Mollwitzstraße / Roßbachstraße;5811;Stadt Köln;Nippes;23.559.955,9;56.494.567,2
+Neusser Straße / Niehler Kirchweg;5127;Stadt Köln;Nippes;23.562.392,3;56.484.658,8
+Neusser Straße / Scheibenstraße / Kapuzinerstraße;5814;Stadt Köln;Nippes;23.559.258,4;56.500.539,4
+Neusser Straße / Simonskaul;5815;Stadt Köln;Nippes;23.557.928,6;56.504.005,7
+Neusser Straße / STRAB-Abzweig;5817;Stadt Köln;Nippes;23.556.577,5;56.507.192,7
+Neusser Straße / Wilhelm-Sollmann-Straße;5819;Stadt Köln;Nippes;23.554.782,3;56.510.287,7
+Neusser Straße / Wilhelmstraße;5124;Stadt Köln;Nippes;23.563.294,1;56.477.020,3
+Niederländer Ufer / An der Schanz / Colonia-Haus;5201;Stadt Köln;Nippes;23.582.491,0;56.473.638,0
+Niederländer Ufer / Frohngasse;5204;Stadt Köln;Nippes;23.577.119,2;56.469.038,9
+Niederländer Ufer / Tiergartenstraße;5202;Stadt Köln;Nippes;23.579.508,0;56.471.112,0
+Niederländer Ufer / Zoobrücke / P+R Zoo;5203;Stadt Köln;Nippes;23.577.911,4;56.469.769,1
+Niehler Damm / Bremerhavener Straße / Sankt-Leonardus-Straße;5011;Stadt Köln;Nippes;23.568.545,2;56.514.100,0
+Niehler Straße / Auerstraße;5131;Stadt Köln;Nippes;23.566.005,6;56.473.597,8
+Niehler Straße / Blücherstraße / Xantener Straße;5134;Stadt Köln;Nippes;23.566.690,7;56.480.594,3
+Niehler Straße / Florastraße / Wilhelmstraße;5133;Stadt Köln;Nippes;23.566.468,4;56.477.519,4
+Niehler Straße / Friedrich-Karl-Straße;5136;Stadt Köln;Nippes;23.567.618,5;56.489.352,1
+Niehler Straße / Kuenstraße;5132;Stadt Köln;Nippes;23.566.188,4;56.474.891,2
+Niehler Straße / Niehler Kirchweg / Weidenpescher Straße;5137;Stadt Köln;Nippes;23.567.871,5;56.491.903,4
+Parkgürtel / Escher Straße / Kirche;5109;Stadt Köln;Nippes;23.549.128,2;56.479.183,9
+Parkgürtel / Longericher Straße / Geldernstraße;5107;Stadt Köln;Nippes;23.553.936,9;56.483.405,0
+Riehler Straße / Boltensternstraße / An der Schanz;5240;Stadt Köln;Nippes;23.582.940,3;56.476.303,6
+Riehler Straße / Frohngasse;5222;Stadt Köln;Nippes;23.575.896,4;56.470.023,2
+Riehler Straße / Zoo-Flora;5223;Stadt Köln;Nippes;23.576.929,8;56.470.630,6
+Sankt-Leonardus-Straße / Ford Parkplatz / privat;5010;privat;Nippes;23.568.377,8;56.517.682,1
+Schiefersburger Weg / Reutlinger Straße / Schule;5026;Stadt Köln;Nippes;23.548.729,7;56.484.268,4
+Sebastianstraße / Feldgärtenstraße;5014;Stadt Köln;Nippes;23.569.097,3;56.503.995,2
+Sebastianstraße / Merkenicher Straße;5013;Stadt Köln;Nippes;23.569.257,2;56.506.424,2
+Stammheimer Straße / Riehler Gürtel / Pionierstraße;5145;Stadt Köln;Nippes;23.578.662,5;56.477.726,5
+Wilhelm-Sollmann-Straße / Graseggerstraße;5820;Stadt Köln;Nippes;23.552.713,7;56.509.862,7
+Wilhelm-Sollmann-Straße / Herforder Straße / Rambouxstraße;5822;Stadt Köln;Nippes;23.544.680,2;56.512.851,5
+Wilhelm-Sollmann-Straße / Meerfeldstraße / Johannes-Rings-Straße;5823;Stadt Köln;Nippes;23.540.972,6;56.513.461,8
+Wilhelm-Sollmann-Straße / Rüdellstraße / Rheindorfer Straße;5821;Stadt Köln;Nippes;23.549.757,5;56.511.894,3
+Xantener Straße / Kretzerstraße / Schule;5144;Stadt Köln;Nippes;23.569.952,8;56.481.333,1
+Akazienweg / Friedensstraße;7038;Stadt Köln;Porz;23.661.772,2;56.377.857,3
+Bahnhofstraße / Friedrichstraße / Schillerstraße;7009;Stadt Köln;Porz;23.635.608,4;56.386.285,4
+Bergerstraße / Bochumer Straße / Neue Eiler Straße;7023;Stadt Köln;Porz;23.646.350,3;56.397.004,2
+Bergerstraße / Josefstraße;7077;Stadt Köln;Porz;23.633.464,4;56.392.592,3
+Flughafen / Terminal;7114;privat;Porz;23.677.019,3;56.381.655,9
+Frankfurter Straße / Alter Deutzer Postweg;7707;Stadt Köln;Porz;23.629.604,0;56.425.853,0
+Frankfurter Straße / BAB559 Nord / Rather Straße;7709;Stadt Köln;Porz;23.635.345,2;56.414.431,8
+Frankfurter Straße / BAB559 Süd;7710;Stadt Köln;Porz;23.636.464,5;56.412.235,0
+Frankfurter Straße / Bergerstraße;7045;Stadt Köln;Porz;23.648.246,3;56.397.617,5
+Frankfurter Straße / Bochumer Straße / Mozartstraße;7057;Stadt Köln;Porz;23.648.502,8;56.395.286,7
+Frankfurter Straße / Ferdinand-Porsche-Straße;7742;Stadt Köln;Porz;23.640.485,5;56.408.510,3
+Frankfurter Straße / Friedensstraße / Friedrich-Hirsch-Straße;0748;StrNRW;Porz;23.651.380,5;56.377.718,4
+Frankfurter Straße / Hansestraße / Neuenhofstraße;7708;Stadt Köln;Porz;23.633.106,6;56.418.976,5
+Frankfurter Straße / Heidestraße / Sankt-Sebastianus-Straße;7050;Stadt Köln;Porz;23.653.024,7;56.357.119,6
+Frankfurter Straße / Hirschgraben;7044;Stadt Köln;Porz;23.649.026,3;56.400.557,5
+Frankfurter Straße / Kaiserstraße / Waldstraße;7046;Stadt Köln;Porz;23.651.016,7;56.384.026,9
+Frankfurter Straße / Kennedystraße;0713;StrNRW;Porz;23.650.220,3;56.388.730,0
+Frankfurter Straße / Schubertstraße;0712;StrNRW;Porz;23.649.455,1;56.392.205,2
+Frankfurter Straße / Steinstraße / Maarhäuser Weg;7711;Stadt Köln;Porz;23.638.025,1;56.410.751,7
+Frankfurter Straße / Theodor-Heuss-Straße;7712;Stadt Köln;Porz;23.645.412,9;56.403.946,3
+Frankfurter Straße / Zündorfer Straße;7047;Stadt Köln;Porz;23.650.855,3;56.381.041,7
+Friedrichstraße / Bundesbahnbrücke;7078;Stadt Köln;Porz;23.636.698,0;56.389.147,0
+Grengeler Mauspfad / Alte Kölner Straße;0719;StrNRW;Porz;23.666.532,1;56.388.368,9
+Grengeler Mauspfad / Kennedystraße Nord;0720;StrNRW;Porz;23.666.858,2;56.386.718,7
+Grengeler Mauspfad / Kennedystraße Süd;0721;StrNRW;Porz;23.667.137,7;56.385.250,5
+Grengeler Mauspfad / Waldstraße;7016;Stadt Köln;Porz;23.667.774,0;56.382.025,8
+Hauptstraße / Bahnhofstraße;7019;Stadt Köln;Porz;23.632.315,4;56.387.218,7
+Hauptstraße / Bergerstraße / Rathausstraße;7029;Stadt Köln;Porz;23.632.245,8;56.391.414,1
+Hauptstraße / Burgweg / Keimergasse;7074;Stadt Köln;Porz;23.623.481,9;56.369.567,1
+Hauptstraße / Ernst-Mühlendyck-Straße / Bennauerstraße;7021;Stadt Köln;Porz;23.632.263,2;56.385.960,1
+Hauptstraße / Karlstraße / Bezirksrathaus;7020;Stadt Köln;Porz;23.632.407,5;56.389.016,1
+Hauptstraße / Rosenhügel / An der Groov;7092;Stadt Köln;Porz;23.627.897,0;56.375.574,0
+Hauptstraße / Steinstraße;7030;Stadt Köln;Porz;23.631.079,6;56.392.533,1
+Heidestraße / Albin-Köbis-Straße / Max-Reichpietsch-Straße;7025;Stadt Köln;Porz;23.658.527,2;56.358.359,8
+Heidestraße / BAB59;0722;StrNRW;Porz;23.660.544,1;56.358.449,9
+Heidestraße / Guntherstraße / Feuerwache;7026;Stadt Köln;Porz;23.662.835,9;56.358.511,8
+Heidestraße / Magazinstraße;7028;Stadt Köln;Porz;23.666.063,4;56.358.650,8
+Heidestraße / Sankt-Ägidius-Straße / Wilhelm-Ruppert-Straße;7024;Stadt Köln;Porz;23.655.871,5;56.357.838,4
+Heidestraße / Sportplatzstraße;7027;Stadt Köln;Porz;23.664.469,8;56.358.585,5
+Hirschgraben / Pferdeüberweg / privat;7999;privat;Porz;23.658.718,3;56.402.806,9
+Humboldtstraße / Bergerstraße;7003;Stadt Köln;Porz;23.642.034,7;56.395.428,6
+Humboldtstraße / Bonner Straße / Schule;7004;Stadt Köln;Porz;23.642.874,4;56.391.962,5
+Humboldtstraße / Konrad-Adenauer-Straße / Kurt-Schumacher-Straße;7002;Stadt Köln;Porz;23.640.940,1;56.398.775,1
+Humboldtstraße / Siemensstraße / Schule;7005;Stadt Köln;Porz;23.643.149,2;56.389.369,8
+Humboldtstraße / Theodor-Heuss-Straße / Schule;7001;Stadt Köln;Porz;23.640.204,0;56.401.587,7
+Humboldtstraße / Voltastraße / Schule;7006;Stadt Köln;Porz;23.643.171,8;56.385.766,7
+Josefstraße / Schule;7073;Stadt Köln;Porz;23.633.819,0;56.391.381,0
+Kaiserstraße / Brucknerstraße / Schule;7013;Stadt Köln;Porz;23.643.827,0;56.384.139,1
+Kaiserstraße / Dorotheenstraße / Schule;7014;Stadt Köln;Porz;23.644.778,4;56.383.742,2
+Kaiserstraße / Humboldtstraße / Schule;7007;Stadt Köln;Porz;23.643.011,1;56.384.743,6
+Kaiserstraße / Marienburger Straße / Unter den Erlen;7069;Stadt Köln;Porz;23.648.198,6;56.383.622,2
+Kaiserstraße / Ohmstraße;7012;Stadt Köln;Porz;23.640.091,8;56.385.269,6
+Kennedystraße / Planstraße;7777;Stadt Köln;Porz;23.653.346,0;56.388.555,9
+Kölner Straße / Berliner Straße / Helenenstraße;7018;Stadt Köln;Porz;23.611.995,1;56.407.687,9
+Kölner Straße / Erkerstraße;7032;Stadt Köln;Porz;23.623.739,0;56.401.203,0
+Kölner Straße / Gilgaustraße;7035;Stadt Köln;Porz;23.615.542,1;56.405.101,2
+Kölner Straße / Gremberghovener Straße / Hohe Straße;7033;Stadt Köln;Porz;23.620.404,5;56.402.382,9
+Kölner Straße / Kirche;7034;Stadt Köln;Porz;23.618.220,0;56.403.065,1
+Kölner Straße / Mudra-Kaserne;0732;StrNRW;Porz;23.606.740,2;56.411.655,9
+Kölner Straße / Porzer Ringstraße;0730;StrNRW;Porz;23.602.073,6;56.413.704,9
+Kölner Straße / Stollwerkstraße / Andre-Citroen-Straße;7036;Stadt Köln;Porz;23.609.661,6;56.409.113,6
+Kölner Straße / Urbacher Weg / Im Rheinfeld;7031;Stadt Köln;Porz;23.625.974,0;56.399.334,7
+Linder Mauspfad / Ernst-Mach-Straße;7090;Stadt Köln;Porz;23.670.713,4;56.344.403,7
+Linder Mauspfad / Flughafenstraße;7089;Stadt Köln;Porz;23.668.895,6;56.355.463,9
+Linder Mauspfad / Viehtrift;7063;Stadt Köln;Porz;23.669.144,0;56.349.292,3
+Maarhäuser Weg / Hansestraße;0714;StrNRW;Porz;23.643.649,0;56.415.464,8
+Nachtigallenstraße / Bieselweg;7083;Stadt Köln;Porz;23.662.955,1;56.363.881,1
+Nachtigallenstraße / Sankt-Ägidius-Straße / Schule;7010;Stadt Köln;Porz;23.655.062,9;56.363.202,3
+Poller Hauptstraße / Schulpfad / Schule;7187;Stadt Köln;Porz;23.588.408,8;56.419.228,8
+Rolshover Straße Max-Glomsda-Straße / Taubenholzweg;7183;Stadt Köln;Porz;23.593.602,0;56.431.184,0
+Rösrather Straße / Bensberger Straße;0723;StrNRW;Porz;23.670.033,1;56.423.306,8
+Schmittgasse / Houdainer Straße / Schule;7017;Stadt Köln;Porz;23.624.188,7;56.367.508,2
+Siegburger Straße / Am Altenberger Kreuz / Krückelstraße;7184;Stadt Köln;Porz;23.586.018,2;56.426.875,7
+Siegburger Straße / Am Weizenacker / Poller Damm;0727;StrNRW;Porz;23.594.362,0;56.419.191,8
+Siegburger Straße / Auf dem Sandberg;7186;Stadt Köln;Porz;23.589.574,0;56.422.793,0
+Siegburger Straße / BAB4 Nord;0728;StrNRW;Porz;23.595.347,5;56.418.058,0
+Siegburger Straße / BAB4 Süd ;0729;StrNRW;Porz;23.596.899,7;56.416.490,9
+Siegburger Straße / Jakob-Kneip-Straße;7185;Stadt Köln;Porz;23.587.287,7;56.424.852,8
+Siegburger Straße / Raiffeisenstraße;7189;Stadt Köln;Porz;23.584.723,0;56.428.281,0
+Steinstraße / Humboldtstraße / Frankenstraße;0715;StrNRW;Porz;23.636.434,5;56.408.814,2
+Steinstraße / Theodor-Heuss-Straße / Hohenstaufenstraße;0716;StrNRW;Porz;23.634.738,9;56.402.059,1
+Theodor-Heuss-Straße / Hansestraße / Heumarer Straße;0717;StrNRW;Porz;23.649.588,3;56.409.209,7
+Theodor-Heuss-Straße / Rudolf-Diesel-Straße;0718;StrNRW;Porz;23.647.555,3;56.406.460,7
+Theodor-Heuss-Straße / Stresemannstraße;7064;Stadt Köln;Porz;23.637.130,1;56.401.562,6
+Wahner Straße / Gartenweg;7079;Stadt Köln;Porz;23.627.022,3;56.367.062,8
+Waldstraße / Mühlenweg;7015;Stadt Köln;Porz;23.654.532,3;56.383.894,0
+Alteburger Straße / Schönhauser Straße / Goltsteinstraße;2070;Stadt Köln;Rodenkirchen;23.571.485,9;56.420.892,8
+Am Eifeltor / BAB4 Nord / GVZ;2080;Stadt Köln;Rodenkirchen;23.541.292,3;56.399.400,4
+Am Eifeltor / BAB4 Süd / GVZ;2081;Stadt Köln;Rodenkirchen;23.540.314,2;56.396.708,4
+Am Eifeltor / Zufahrt 1 / GVZ;2082;Stadt Köln;Rodenkirchen;23.539.840,9;56.395.083,6
+Am Eifeltor / Zufahrt 3 / Zollstocker Weg-ehmals;2083;Stadt Köln;Rodenkirchen;23.538.588,1;56.388.340,1
+Am Eifeltor / Zufahrt 4 / Zollstocker Weg-ehmals;2084;Stadt Köln;Rodenkirchen;23.537.025,3;56.386.401,4
+Am Eifeltor / Zufahrt 5 / Zollstocker Weg-ehmals;2085;Stadt Köln;Rodenkirchen;23.535.076,0;56.384.531,4
+Am Verteilerkreis / Militärringstraße / Bonner Straße / BAB 555;0210;StrNRW;Rodenkirchen;23.570.449,1;56.398.351,8
+Bayenthalgürtel / Goltsteinstraße / Pferdmengesstraße;2067;Stadt Köln;Rodenkirchen;23.573.738,6;56.411.795,5
+Bayenthalgürtel / Schillerstraße / Goethestraße;2066;Stadt Köln;Rodenkirchen;23.572.105,5;56.411.352,6
+Bonner Landstraße / BAB555;0202;StrNRW;Rodenkirchen;23.573.948,0;56.370.017,8
+Bonner Straße / Annastraße;2006;Stadt Köln;Rodenkirchen;23.568.563,6;56.412.736,4
+Bonner Straße / Bayenthalgürtel / Raderberggürtel;2007;Stadt Köln;Rodenkirchen;23.568.844,3;56.410.929,9
+Bonner Straße / Brühler Straße / Schönhauser Straße / Marktstraße;2003;Stadt Köln;Rodenkirchen;23.567.616,5;56.418.948,8
+Bonner Straße / Cäsarstraße / Schule;2005;Stadt Köln;Rodenkirchen;23.568.245,2;56.414.750,6
+Bonner Straße / Gaedestraße / Marienburger Straße;2008;Stadt Köln;Rodenkirchen;23.569.462,5;56.407.135,4
+Bonner Straße / Leyboldstraße / Sinziger Straße;2009;Stadt Köln;Rodenkirchen;23.569.798,3;56.404.369,0
+Bonner Straße / Lindenallee / Heidekaul;2010;Stadt Köln;Rodenkirchen;23.570.300,7;56.400.828,3
+Bonner Straße / Mathiaskirchplatz;2004;Stadt Köln;Rodenkirchen;23.567.960,8;56.416.613,4
+Brühler Landstraße / Alte Fischenicher Straße;0207;StrNRW;Rodenkirchen;23.541.412,7;56.365.149,4
+Brühler Landstraße / Alte Köln Straße;2028;Stadt Köln;Rodenkirchen;23.540.764,6;56.363.509,7
+Brühler Landstraße / Am Kölnberg;0206;StrNRW;Rodenkirchen;23.542.098,0;56.366.992,8
+Brühler Landstraße / Auf dem Rosenhügel / Kindergarten / Am Magerhof;2029;Stadt Köln;Rodenkirchen;23.539.827,0;56.362.572,2
+Brühler Landstraße / Auf der Ronne / Alte Brühler Straße;2030;Stadt Köln;Rodenkirchen;23.538.171,8;56.359.272,3
+Brühler Landstraße / Höningen;2026;Stadt Köln;Rodenkirchen;23.551.186,3;56.390.189,4
+Brühler Landstraße / Kapellenstraße / Karlscheurener Straße;0205;StrNRW;Rodenkirchen;23.547.540,2;56.382.221,4
+Brühler Landstraße / Militärringstraße / Brühler Straße;0208;StrNRW;Rodenkirchen;23.557.156,7;56.400.442,3
+Brühler Landstraße / Schulstraße;2027;Stadt Köln;Rodenkirchen;23.541.162,6;56.364.364,1
+Brühler Straße / Markusstraße / Urfelder Straße;2024;Stadt Köln;Rodenkirchen;23.561.165,3;56.407.333,7
+Brühler Straße / Raderthalgürtel / Raderberggürtel;2023;Stadt Köln;Rodenkirchen;23.563.345,5;56.411.117,5
+Brühler Straße / Rheinsteinstraße;2020;Stadt Köln;Rodenkirchen;23.565.842,5;56.415.458,8
+Brühler Straße / Truppenamt;2025;Stadt Köln;Rodenkirchen;23.558.760,7;56.403.245,9
+Friedrich-Ebert-Straße / Römerstraße / Konrad-Adenauer-Straße;2130;Stadt Köln;Rodenkirchen;23.584.141,1;56.395.952,8
+Godorfer Hauptstraße / IKEA;0241;StrNRW;Rodenkirchen;23.574.432,7;56.362.987,7
+Godorfer Hauptstraße / Kiesgrubenweg / Bonner Landstraße;0203;StrNRW;Rodenkirchen;23.574.204,6;56.367.147,6
+Godorfer Hauptstraße / Otto-Hahn-Straße;0204;StrNRW;Rodenkirchen;23.574.597,2;56.360.067,2
+Gustav-Heinemann-Ufer / Bayenthalgürtel;2312;Stadt Köln;Rodenkirchen;23.577.771,9;56.414.793,4
+Gustav-Heinemann-Ufer / Schönhauser Straße;2310;Stadt Köln;Rodenkirchen;23.574.236,5;56.422.192,8
+Gustav-Heinemann-Ufer / Tacitusstraße;2311;Stadt Köln;Rodenkirchen;23.575.751,2;56.418.718,0
+Hauptstraße / Weißer Straße / Sürther Straße / Gudrunstraße / Walther-Rathenau-Straße;2102;Stadt Köln;Rodenkirchen;23.591.570,7;56.396.247,1
+Heinrichstraße / Müller-Armack-Straße / Schule;2107;Stadt Köln;Rodenkirchen;23.612.010,2;56.376.808,6
+Höninger Weg / Am Vorgebirgstor / Pohligstraße;2050;Stadt Köln;Rodenkirchen;23.553.144,3;56.426.031,7
+Höninger Weg / Bernkasteler Straße / Zollstocksweg;2053;Stadt Köln;Rodenkirchen;23.552.600,1;56.417.818,5
+Höninger Weg / Gottesweg;2052;Stadt Köln;Rodenkirchen;23.552.988,6;56.419.253,7
+Höninger Weg / Höninger Platz;2056;Stadt Köln;Rodenkirchen;23.553.986,2;56.408.622,4
+Höninger Weg / Kalscheurer Weg / Walberberger Straße;2054;Stadt Köln;Rodenkirchen;23.552.695,5;56.415.983,5
+Höninger Weg / Zollstockgürtel;2055;Stadt Köln;Rodenkirchen;23.553.142,9;56.412.713,2
+Industriestraße / Bunsenstraße;0232;StrNRW;Rodenkirchen;23.577.437,2;56.349.955,5
+Industriestraße / Kerkrader Straße;0233;StrNRW;Rodenkirchen;23.575.752,4;56.345.921,4
+Industriestraße / Ober Buschweg / Emil-Hoffmann-Straße;2124;Stadt Köln;Rodenkirchen;23.590.640,1;56.367.771,3
+Industriestraße / Theodor-Heuss-Straße / Degussa;0234;StrNRW;Rodenkirchen;23.575.456,1;56.341.734,9
+Industriestraße / Wattigniesstraße / Abfahrt;2123;Stadt Köln;Rodenkirchen;23.592.820,5;56.372.916,9
+Industriestraße / Wattigniesstraße / Auffahrt;2122;Stadt Köln;Rodenkirchen;23.593.980,0;56.372.050,2
+Industriestraße / Zum Forstbotanischen Garten / Schillingsrotter Straße;0250;StrNRW;Rodenkirchen;23.585.726,2;56.388.375,7
+Kerkrader Straße / Am Domenhof;0235;StrNRW;Rodenkirchen;23.573.124,3;56.346.625,6
+Kerkrader Straße / BAB555-Ost und West ;0236;StrNRW;Rodenkirchen;23.570.695,8;56.347.955,1
+Kiesgrubenweg / Emil-Hoffmann-Straße / Wattigniestraße;0268;StrNRW;Rodenkirchen;23.586.102,6;56.369.895,9
+Kiesgrubenweg / Unter den Birken;0267;StrNRW;Rodenkirchen;23.584.764,6;56.369.720,2
+Koblenzer Straße / Schönhauser Straße;2071;Stadt Köln;Rodenkirchen;23.570.955,5;56.420.644,2
+Militärringstraße / Leyboldstraße / Konrad-Adenauer-Straße;0298;StrNRW;Rodenkirchen;23.580.055,6;56.404.244,0
+Militärringstraße / Oberer Komarweg / Am Eifeltor;0209;StrNRW;Rodenkirchen;23.542.600,8;56.402.910,4
+Militärringstraße / Schillingsrotter Weg / Feuerwehr Ausfahrt;0200;StrNRW;Rodenkirchen;23.575.790,9;56.399.764,5
+Militärringstraße / Zum Forstbotanischen Garten;0299;StrNRW;Rodenkirchen;23.576.780,1;56.400.765,0
+Oberländer Ufer / An der Alteburger Mühle;2313;Stadt Köln;Rodenkirchen;23.579.694,9;56.411.490,2
+Oberländer Ufer / Marienburger Straße;2314;Stadt Köln;Rodenkirchen;23.580.643,1;56.410.103,8
+Oberländer Ufer / Militärringstraße / Heinrich-Lübke-Ufer;2074;Stadt Köln;Rodenkirchen;23.582.655,5;56.407.180,2
+Pohligstraße / Berlin-Kölnische Allee / Weyerstraßerweg;2049;Stadt Köln;Rodenkirchen;23.551.782,0;56.426.981,6
+Raderberggürtel / Deutsche Welle / Schule / Wender;2064;Stadt Köln;Rodenkirchen;23.565.451,3;56.411.056,9
+Raderberggürtel / Mertener Straße / Schule;2065;Stadt Köln;Rodenkirchen;23.567.551,0;56.410.966,5
+Raderthalgürtel / Leichweg / Schule;2062;Stadt Köln;Rodenkirchen;23.557.689,4;56.411.792,8
+Raderthalgürtel / Raderthaler Straße / Wender;2063;Stadt Köln;Rodenkirchen;23.561.605,8;56.411.275,3
+Ringstraße / Maternusstraße / Brückenstraße;2110;Stadt Köln;Rodenkirchen;23.586.647,4;56.396.879,5
+Ringstraße / Schillingsrotter Straße;2111;Stadt Köln;Rodenkirchen;23.587.871,9;56.394.930,6
+Ringstraße / Siegfriedstraße / Rotterbergstraße;2112;Stadt Köln;Rodenkirchen;23.590.696,8;56.391.784,8
+Rodenkirchener Straße / Lerchenweg / Adlerstraße;2078;Stadt Köln;Rodenkirchen;23.565.306,5;56.381.928,4
+Schillingsrotter Straße / Römerstraße;2131;Stadt Köln;Rodenkirchen;23.586.443,3;56.390.065,6
+Sürther Hauptstraße / Kölnstraße / Rheinaustraße / Schule;2121;Stadt Köln;Rodenkirchen;23.601.384,9;56.367.062,3
+Sürther Straße / Eygelshovener Straße / Schule-Zentrum;2118;Stadt Köln;Rodenkirchen;23.595.569,1;56.380.719,0
+Sürther Straße / Grüngürtelstraße;2116;Stadt Köln;Rodenkirchen;23.593.583,8;56.386.523,3
+Sürther Straße / Kölnstraße / Am Feldrain / Wattigniesstraße;2120;Stadt Köln;Rodenkirchen;23.596.371,4;56.372.911,6
+Sürther Straße / Moselstraße;2115;Stadt Köln;Rodenkirchen;23.592.997,3;56.387.627,8
+Sürther Straße / Pfarrer-Te-Reh-Straße / Martinsweg;2117;Stadt Köln;Rodenkirchen;23.595.381,3;56.381.661,2
+Sürther Straße / Siegfriedstraße;2132;Stadt Köln;Rodenkirchen;23.591.758,8;56.392.581,2
+Vorgebirgstraße / Am Vorgebirgstor;2040;Stadt Köln;Rodenkirchen;23.557.103,3;56.423.683,2
+Vorgebirgstraße / Bischofsweg;2039;Stadt Köln;Rodenkirchen;23.558.059,9;56.425.945,8
+Vorgebirgstraße / Bodendorfer Straße;2043;Stadt Köln;Rodenkirchen;23.555.657,4;56.416.303,3
+Vorgebirgstraße / Gottesweg / Zollstockweg;2042;Stadt Köln;Rodenkirchen;23.555.792,2;56.418.559,3
+Vorgebirgstraße / Herthastraße / Homburger Straße;2041;Stadt Köln;Rodenkirchen;23.556.023,1;56.421.013,4
+Vorgebirgstraße / Roisdorfer Straße / Schwalbacher Straße;2044;Stadt Köln;Rodenkirchen;23.555.528,0;56.413.342,7
+Vorgebirgstraße / Zollstockgürtel / Raderthalgürtel;2045;Stadt Köln;Rodenkirchen;23.555.439,2;56.412.218,6
+Weißer Straße / Grüngürtelstraße;2105;Stadt Köln;Rodenkirchen;23.597.068,1;56.389.063,2
+Weißer Straße / Hammerschmidtstraße / Adolf-Menzel-Straße;2106;Stadt Köln;Rodenkirchen;23.603.205,6;56.384.701,1
+Weißer Straße / Siegfriedstraße / Grimmelshausenstraße;2103;Stadt Köln;Rodenkirchen;23.593.340,0;56.393.710,0
+Weißer Straße / Siegstraße;2104;Stadt Köln;Rodenkirchen;23.594.922,6;56.391.371,8
+Zollstockgürtel / Kalscheurer Weg;2061;Stadt Köln;Rodenkirchen;23.551.293,9;56.413.479,9
+Zollstockgürtel / Neuer Weyerstraßerweg / Bernkasteler Straße;2060;Stadt Köln;Rodenkirchen;23.548.679,2;56.415.152,2
+Zum Forstbotanischen Garten / Friedrich-Ebert-Straße;0201;StrNRW;Rodenkirchen;23.580.965,6;56.393.969,6

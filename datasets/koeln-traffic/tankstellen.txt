@@ -1,0 +1,1267 @@
+{
+ "displayFieldName": "ADRESSE",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "ADRESSE": "Adresse"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "ADRESSE",
+   "type": "esriFieldTypeString",
+   "alias": "Adresse",
+   "length": 100
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 98,
+    "ADRESSE": "Bonner Str. 98 (50677 Neustadt/Süd)"
+   },
+   "geometry": {
+    "x": 6.960644911005172,
+    "y": 50.916095041454554
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 99,
+    "ADRESSE": "Hülchrather Str. 17 (50670 Neustadt/Nord)"
+   },
+   "geometry": {
+    "x": 6.9610691756320628,
+    "y": 50.954466539174284
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 100,
+    "ADRESSE": "Siegburger Str. 116 (50679 Deutz)"
+   },
+   "geometry": {
+    "x": 6.979491940887355,
+    "y": 50.923288946783785
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 101,
+    "ADRESSE": "Marsilstein 3 (50676 Altstadt/Süd)"
+   },
+   "geometry": {
+    "x": 6.9445223354469903,
+    "y": 50.935113088265084
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 102,
+    "ADRESSE": "Deutz-Kalker Str. 103 (50679 Deutz)"
+   },
+   "geometry": {
+    "x": 6.9917132640677755,
+    "y": 50.937189337758255
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 103,
+    "ADRESSE": "Ringstr. 21 (50996 Rodenkirchen)"
+   },
+   "geometry": {
+    "x": 6.9919236852223996,
+    "y": 50.890305706723041
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 104,
+    "ADRESSE": "Brühler Str. 223 (50968 Raderthal)"
+   },
+   "geometry": {
+    "x": 6.9537230061494206,
+    "y": 50.899877574534941
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 105,
+    "ADRESSE": "Kapellenstr. 29 (50997 Rondorf)"
+   },
+   "geometry": {
+    "x": 6.9496027508370597,
+    "y": 50.874498300878741
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 106,
+    "ADRESSE": "Walther-Rathenau-Str. 1 (50996 Rodenkirchen)"
+   },
+   "geometry": {
+    "x": 6.9972238760048748,
+    "y": 50.891563419572464
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 107,
+    "ADRESSE": "Otto-Hahn-Str. 23 (50997 Godorf)"
+   },
+   "geometry": {
+    "x": 6.9714080491561452,
+    "y": 50.859966003476806
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 108,
+    "ADRESSE": "Bonner Str. 417 (50968 Marienburg)"
+   },
+   "geometry": {
+    "x": 6.9659799719556039,
+    "y": 50.900963507270149
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 109,
+    "ADRESSE": "Raderthalgürtel 1 (50968 Raderthal)"
+   },
+   "geometry": {
+    "x": 6.9501012484918689,
+    "y": 50.902504517130282
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 110,
+    "ADRESSE": "Brühler Str. 272 (50968 Raderthal)"
+   },
+   "geometry": {
+    "x": 6.9519567410996066,
+    "y": 50.898755658039534
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 111,
+    "ADRESSE": "Höninger Weg 12 (50969 Zollstock)"
+   },
+   "geometry": {
+    "x": 6.9402550559312841,
+    "y": 50.920787578115345
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 112,
+    "ADRESSE": "Aachener Str. 1035 (50858 Junkersdorf)"
+   },
+   "geometry": {
+    "x": 6.8581281326722605,
+    "y": 50.93767146119405
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 113,
+    "ADRESSE": "Aachener Str. 1095 (50858 Weiden)"
+   },
+   "geometry": {
+    "x": 6.8477481908258184,
+    "y": 50.93778652955644
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 114,
+    "ADRESSE": "Dürener Str. 388 (50935 Lindenthal)"
+   },
+   "geometry": {
+    "x": 6.8953583936222511,
+    "y": 50.92492631862924
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 115,
+    "ADRESSE": "Kölner Str. 108 (51149 Ensen)"
+   },
+   "geometry": {
+    "x": 7.0359663059900521,
+    "y": 50.897870815072693
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 116,
+    "ADRESSE": "Kölner Str. 255 (51149 Westhoven)"
+   },
+   "geometry": {
+    "x": 7.0208726893063202,
+    "y": 50.903591299170905
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 117,
+    "ADRESSE": "Dürener Str. 407 (50858 Junkersdorf)"
+   },
+   "geometry": {
+    "x": 6.869525687858328,
+    "y": 50.923062382409796
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 118,
+    "ADRESSE": "Riehler Str. 198 (50735 Riehl)"
+   },
+   "geometry": {
+    "x": 6.9807364475810303,
+    "y": 50.961861940513153
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 119,
+    "ADRESSE": "Pauline-Christmann-Str. 1 (51107 Rath/Heumar)"
+   },
+   "geometry": {
+    "x": 7.0604167519702683,
+    "y": 50.927310129592861
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 120,
+    "ADRESSE": "Kölner Str. 111 (50859 Lövenich)"
+   },
+   "geometry": {
+    "x": 6.848407968150517,
+    "y": 50.947923196000161
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 121,
+    "ADRESSE": "Godorfer Hauptstr. 144 (50997 Godorf)"
+   },
+   "geometry": {
+    "x": 6.9760696565634515,
+    "y": 50.852940233943414
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 122,
+    "ADRESSE": "Schmittgasse 44 (51143 Zündorf)"
+   },
+   "geometry": {
+    "x": 7.0471366725970306,
+    "y": 50.867856792923639
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 123,
+    "ADRESSE": "Widdersdorfer Str. 427 (50933 Müngersdorf)"
+   },
+   "geometry": {
+    "x": 6.8803604959987688,
+    "y": 50.946996546122683
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 124,
+    "ADRESSE": "Flughafen/Nordallee (51147 Köln)"
+   },
+   "geometry": {
+    "x": 7.1129032728798673,
+    "y": 50.881133672632743
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1,
+    "ADRESSE": "Neuenhofstr. 2 (51149 Gremberghoven)"
+   },
+   "geometry": {
+    "x": 7.0528526207253099,
+    "y": 50.911022220979248
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 2,
+    "ADRESSE": "Rolshover Str. 420 (51105 Poll)"
+   },
+   "geometry": {
+    "x": 6.9984528775768196,
+    "y": 50.920465769422577
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3,
+    "ADRESSE": "Olpener Str. 1026 (51109 Brück)"
+   },
+   "geometry": {
+    "x": 7.0849136736003455,
+    "y": 50.946768472916887
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 4,
+    "ADRESSE": "Olpener Str. 498 (51109 Merheim)"
+   },
+   "geometry": {
+    "x": 7.0512770497358499,
+    "y": 50.94291705200078
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 5,
+    "ADRESSE": "Frankfurter Str. 390 (51103 Höhenberg)"
+   },
+   "geometry": {
+    "x": 7.0271589313774285,
+    "y": 50.942565315380108
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 6,
+    "ADRESSE": "Olpener Str. 60 (51103 Höhenberg)"
+   },
+   "geometry": {
+    "x": 7.0191774265507663,
+    "y": 50.940058867556438
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 7,
+    "ADRESSE": "Rösrather Str. 724 (51107 Rath/Heumar)"
+   },
+   "geometry": {
+    "x": 7.0937808523650308,
+    "y": 50.920360770762166
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 8,
+    "ADRESSE": "Alter Deutzer Postweg 102 (51149 Gremberghoven)"
+   },
+   "geometry": {
+    "x": 7.0494492208176327,
+    "y": 50.918581246942658
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 9,
+    "ADRESSE": "Odenthaler Str. 1 (51069 Dünnwald)"
+   },
+   "geometry": {
+    "x": 7.0418432863039202,
+    "y": 51.001792383004336
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 10,
+    "ADRESSE": "Bergisch Gladbacher Str. 417 (51067 Holweide)"
+   },
+   "geometry": {
+    "x": 7.034607806733197,
+    "y": 50.967755848146332
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 11,
+    "ADRESSE": "Bergisch Gladbacher Str. 388 (51067 Holweide)"
+   },
+   "geometry": {
+    "x": 7.0336936623171074,
+    "y": 50.966976330906846
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 12,
+    "ADRESSE": "Bergisch Gladbacher Str. 781 (51069 Dellbrück)"
+   },
+   "geometry": {
+    "x": 7.0575889422016242,
+    "y": 50.974408804445389
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 13,
+    "ADRESSE": "Bergisch Gladbacher Str. 1146 (51069 Dellbrück)"
+   },
+   "geometry": {
+    "x": 7.0802579828497842,
+    "y": 50.981342940436839
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 14,
+    "ADRESSE": "Waldstr. 148 (51147 Grengel)"
+   },
+   "geometry": {
+    "x": 7.098064648960114,
+    "y": 50.881104407291211
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 15,
+    "ADRESSE": "Rösrather Str. 521b (51107 Rath/Heumar)"
+   },
+   "geometry": {
+    "x": 7.0793127554339401,
+    "y": 50.923657765136113
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 16,
+    "ADRESSE": "Hugo-Eckener-Str. 27a (50829 Ossendorf)"
+   },
+   "geometry": {
+    "x": 6.8950678007280342,
+    "y": 50.977189646265501
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 17,
+    "ADRESSE": "Neusser Str. 856 (50737 Longerich)"
+   },
+   "geometry": {
+    "x": 6.9406221477924648,
+    "y": 50.993294929056965
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 18,
+    "ADRESSE": "Longericher Str. 543 (50739 Longerich)"
+   },
+   "geometry": {
+    "x": 6.9118963372716387,
+    "y": 50.998923740620462
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 19,
+    "ADRESSE": "Escher Str. 273 (50739 Bilderstöckchen)"
+   },
+   "geometry": {
+    "x": 6.9269860657111355,
+    "y": 50.969211198010363
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 20,
+    "ADRESSE": "Neusser Str. 153 (50733 Nippes)"
+   },
+   "geometry": {
+    "x": 6.9543497744101472,
+    "y": 50.958427949845394
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 21,
+    "ADRESSE": "Escher Str. 170 (50739 Bilderstöckchen)"
+   },
+   "geometry": {
+    "x": 6.9325825227131128,
+    "y": 50.965626617626157
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 22,
+    "ADRESSE": "Friedrich-Karl-Str. 93 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9583640156537037,
+    "y": 50.974495152925336
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 23,
+    "ADRESSE": "Sebastianstr. 22 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9612918779797948,
+    "y": 50.982920809470492
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 24,
+    "ADRESSE": "Boltensternstr. 350 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9701699621529096,
+    "y": 50.980324252575308
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 25,
+    "ADRESSE": "Wankelstr. 35 (50996 Hahnwald)"
+   },
+   "geometry": {
+    "x": 6.9945301675037381,
+    "y": 50.870297097448969
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 26,
+    "ADRESSE": "Max-Planck-Str. 9 (50858 Junkersdorf)"
+   },
+   "geometry": {
+    "x": 6.8532529811017611,
+    "y": 50.921468637227086
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 27,
+    "ADRESSE": "Hansestr. 74 (51149 Gremberghoven)"
+   },
+   "geometry": {
+    "x": 7.0605707974271814,
+    "y": 50.914525813132265
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 28,
+    "ADRESSE": "Rolshover Str. 181 (51105 Humboldt/Gremberg)"
+   },
+   "geometry": {
+    "x": 7.0002074252182469,
+    "y": 50.927328062592053
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 29,
+    "ADRESSE": "Amsterdamer Str. 242 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9688574132693732,
+    "y": 50.98028760631481
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 30,
+    "ADRESSE": "Am Verteilerkreis 0 (50968 Marienburg)"
+   },
+   "geometry": {
+    "x": 6.9662893203542096,
+    "y": 50.891828430871861
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 31,
+    "ADRESSE": "Erftstr. 38 (50672 Neustadt/Nord)"
+   },
+   "geometry": {
+    "x": 6.9395696055608678,
+    "y": 50.946773545185785
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 32,
+    "ADRESSE": "Venloer Str. 771 (50827 Bickendorf)"
+   },
+   "geometry": {
+    "x": 6.8936799277793712,
+    "y": 50.960464236220503
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 33,
+    "ADRESSE": "Dürener Str. 415 (50858 Junkersdorf)"
+   },
+   "geometry": {
+    "x": 6.8532212269498105,
+    "y": 50.920012864850726
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 34,
+    "ADRESSE": "Aachener Str. 1100 (50858 Weiden)"
+   },
+   "geometry": {
+    "x": 6.8480203975028848,
+    "y": 50.938375413965929
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 35,
+    "ADRESSE": "Vogelsanger Weg 46 (50858 Junkersdorf)"
+   },
+   "geometry": {
+    "x": 6.8535309017873436,
+    "y": 50.935196107164714
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 36,
+    "ADRESSE": "Melatengürtel 12 (50933 Braunsfeld)"
+   },
+   "geometry": {
+    "x": 6.9098528045831138,
+    "y": 50.938106950530276
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 37,
+    "ADRESSE": "Venloer Str. 166 (50823 Ehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9273545889057013,
+    "y": 50.945590036012213
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 38,
+    "ADRESSE": "Rochusstr. 353 (50827 Ossendorf)"
+   },
+   "geometry": {
+    "x": 6.9045494091857922,
+    "y": 50.972738603886484
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 39,
+    "ADRESSE": "Maarweg 126 (50825 Ehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.8987582191407215,
+    "y": 50.943374402691447
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 40,
+    "ADRESSE": "Liebigstr. 56 (50823 Neuehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9276397771772551,
+    "y": 50.953328317028429
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 41,
+    "ADRESSE": "Widdersdorfer Str. 165 (50825 Ehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9062950619272234,
+    "y": 50.945302477032449
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 42,
+    "ADRESSE": "Iltisstr. 138 (50825 Neuehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9137501048007648,
+    "y": 50.964302679782634
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 43,
+    "ADRESSE": "Ehrenfeldgürtel 2 (50823 Ehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9154622271005071,
+    "y": 50.948502485913941
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 44,
+    "ADRESSE": "Äußere Kanalstr. 90 (50827 Ehrenfeld)"
+   },
+   "geometry": {
+    "x": 6.9054848344908946,
+    "y": 50.958726151936304
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 45,
+    "ADRESSE": "Amsterdamer Str. 194 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9705227944996304,
+    "y": 50.974775903288744
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 46,
+    "ADRESSE": "Neusser Landstr. 16 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9310206408215027,
+    "y": 51.006771023787579
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 47,
+    "ADRESSE": "Geestemünder Str. 18 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.940972623805763,
+    "y": 50.99853596919894
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 48,
+    "ADRESSE": "Hugo-Junkers-Str. 10 (50739 Longerich)"
+   },
+   "geometry": {
+    "x": 6.9133314587902497,
+    "y": 50.987437514140225
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 49,
+    "ADRESSE": "Longericher Str. 205 (50739 Bilderstöckchen)"
+   },
+   "geometry": {
+    "x": 6.9199338348874218,
+    "y": 50.982015955341275
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 50,
+    "ADRESSE": "Amsterdamer Str. 236 (50735 Niehl)"
+   },
+   "geometry": {
+    "x": 6.9690956086025206,
+    "y": 50.979492686120345
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 51,
+    "ADRESSE": "Neusser Landstr. 323 (50769 Worringen)"
+   },
+   "geometry": {
+    "x": 6.8641247874834059,
+    "y": 51.067769336314974
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 52,
+    "ADRESSE": "Volkhovener Weg 117 (50767 Heimersdorf)"
+   },
+   "geometry": {
+    "x": 6.8975522528061832,
+    "y": 51.007468351215472
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 53,
+    "ADRESSE": "Athener Ring 1 (50765 Chorweiler)"
+   },
+   "geometry": {
+    "x": 6.8962931904309945,
+    "y": 51.019441078194397
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 54,
+    "ADRESSE": "Donatusstr. 20 (50767 Pesch)"
+   },
+   "geometry": {
+    "x": 6.8748685694215119,
+    "y": 51.00348824176772
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 55,
+    "ADRESSE": "Oskar-Schindler-Str. 1 (50769 Merkenich)"
+   },
+   "geometry": {
+    "x": 6.9194115286069344,
+    "y": 51.032744806146958
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 56,
+    "ADRESSE": "Bergerstr. 108 (51145 Porz)"
+   },
+   "geometry": {
+    "x": 7.0680068027047103,
+    "y": 50.89094345817319
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 57,
+    "ADRESSE": "Frankfurter Str. 531 (51145 Urbach)"
+   },
+   "geometry": {
+    "x": 7.08170248726264,
+    "y": 50.882117156730466
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 58,
+    "ADRESSE": "Heidestr. 150 (51147 Wahnheide)"
+   },
+   "geometry": {
+    "x": 7.0989802983930153,
+    "y": 50.858264055617013
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 59,
+    "ADRESSE": "Am Linder Kreuz 53 (51147 Lind)"
+   },
+   "geometry": {
+    "x": 7.1002704750544332,
+    "y": 50.848139849337294
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 60,
+    "ADRESSE": "Niederkasseler Str. 8 (51147 Lind)"
+   },
+   "geometry": {
+    "x": 7.1029827607663707,
+    "y": 50.840328917318821
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 61,
+    "ADRESSE": "Siegburger Str. 406 (51105 Poll)"
+   },
+   "geometry": {
+    "x": 6.9942834980901161,
+    "y": 50.914323063833301
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 62,
+    "ADRESSE": "Siegburger Str. 490 (51105 Poll)"
+   },
+   "geometry": {
+    "x": 6.9974477925621432,
+    "y": 50.913070982543594
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 63,
+    "ADRESSE": "Lülsdorfer Str. 193 (51143 Langel)"
+   },
+   "geometry": {
+    "x": 7.0105336701167715,
+    "y": 50.849692267872783
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 64,
+    "ADRESSE": "Rudolf-Diesel-Str. 32 (51149 Eil)"
+   },
+   "geometry": {
+    "x": 7.0726946973640814,
+    "y": 50.902591407860321
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 65,
+    "ADRESSE": "Olpener Str. 690 (51109 Brück)"
+   },
+   "geometry": {
+    "x": 7.0625358444635244,
+    "y": 50.944856511997408
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 66,
+    "ADRESSE": "Rösrather Str. 89 (51107 Ostheim)"
+   },
+   "geometry": {
+    "x": 7.0495501916389163,
+    "y": 50.930016370227939
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 67,
+    "ADRESSE": "Broichstr. 28 (51109 Brück)"
+   },
+   "geometry": {
+    "x": 7.0616925158923145,
+    "y": 50.94608965277218
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 68,
+    "ADRESSE": "Berliner Str. 462 (51061 Höhenhaus)"
+   },
+   "geometry": {
+    "x": 7.0287251619857694,
+    "y": 50.984617070253272
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 69,
+    "ADRESSE": "Dellbrücker Hauptstr. 9 (51069 Dellbrück)"
+   },
+   "geometry": {
+    "x": 7.0752930736872672,
+    "y": 50.972478146034732
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 70,
+    "ADRESSE": "Frankfurter Str. 198 (51065 Buchheim)"
+   },
+   "geometry": {
+    "x": 7.0170123489721652,
+    "y": 50.950002985706114
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 71,
+    "ADRESSE": "Clevischer Ring 49 (51063 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0058232083783158,
+    "y": 50.96560860611018
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 72,
+    "ADRESSE": "Düsseldorfer Str. 200 (51063 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0024460701350151,
+    "y": 50.979097253415617
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 73,
+    "ADRESSE": "Rendsburger Platz 2 (51065 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0011633698145559,
+    "y": 50.95575881512125
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 74,
+    "ADRESSE": "Düsseldorfer Str. 491 (51061 Stammheim)"
+   },
+   "geometry": {
+    "x": 6.9986540853641612,
+    "y": 50.989686222007478
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 75,
+    "ADRESSE": "Bergisch Gladbacher Str. 244 (51063 Buchheim)"
+   },
+   "geometry": {
+    "x": 7.0251575155714931,
+    "y": 50.965283257834926
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 76,
+    "ADRESSE": "Kieler Str. 2 (51065 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0042341814067388,
+    "y": 50.9550862760779
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 77,
+    "ADRESSE": "Neusser Str. 467 (50733 Weidenpesch)"
+   },
+   "geometry": {
+    "x": 6.9502606824500957,
+    "y": 50.973846013684664
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 78,
+    "ADRESSE": "Konrad-Hausmann-Str. 2 (50767 Pesch)"
+   },
+   "geometry": {
+    "x": 6.8796996689945775,
+    "y": 50.99972818061282
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 79,
+    "ADRESSE": "Olpener Str. 27 (51103 Höhenberg)"
+   },
+   "geometry": {
+    "x": 7.0190008095897527,
+    "y": 50.940471981940654
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 80,
+    "ADRESSE": "Berliner Str. 111 (51063 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0122982851308118,
+    "y": 50.973898750097639
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 81,
+    "ADRESSE": "Mülheimer Zubringer 140 (51063 Mülheim)"
+   },
+   "geometry": {
+    "x": 7.0072388146798987,
+    "y": 50.976951690396241
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 82,
+    "ADRESSE": "Spenrather Weg 1 (50829 Bocklemünd/Mengenich)"
+   },
+   "geometry": {
+    "x": 6.846886745474853,
+    "y": 50.980046639381541
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 83,
+    "ADRESSE": "Holzmarkt 49 (50676 Köln)"
+   },
+   "geometry": {
+    "x": 6.9621546045601832,
+    "y": 50.931422621420836
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 84,
+    "ADRESSE": "Messe-Kreisel 1 (50679 Deutz)"
+   },
+   "geometry": {
+    "x": 6.9835250116238612,
+    "y": 50.943949031199438
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 85,
+    "ADRESSE": "Kölnstr. 1 (50999 Köln)"
+   },
+   "geometry": {
+    "x": 7.0053069790550859,
+    "y": 50.869709882793337
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 86,
+    "ADRESSE": "Zollstockgürtel 39 (50969 Zollstock)"
+   },
+   "geometry": {
+    "x": 6.9379149716818409,
+    "y": 50.905749489316435
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 87,
+    "ADRESSE": "Brühler Landstr. 473 (50997 Meschenich)"
+   },
+   "geometry": {
+    "x": 6.9236117550834555,
+    "y": 50.856688140084998
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 88,
+    "ADRESSE": "Marktstr. 2 (50968 Raderberg)"
+   },
+   "geometry": {
+    "x": 6.9608214030883522,
+    "y": 50.911823463384529
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 89,
+    "ADRESSE": "Marktstr. 10 (50968 Raderberg)"
+   },
+   "geometry": {
+    "x": 6.9595528165975757,
+    "y": 50.912060259633328
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 90,
+    "ADRESSE": "Am Eifeltor 1 (50997 Rondorf)"
+   },
+   "geometry": {
+    "x": 6.924295957868523,
+    "y": 50.888049508013708
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 91,
+    "ADRESSE": "Aachener Str. 201 (50931 Lindenthal)"
+   },
+   "geometry": {
+    "x": 6.9227403893085757,
+    "y": 50.936432680885986
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 92,
+    "ADRESSE": "Aachener Str. 544 (50933 Braunsfeld)"
+   },
+   "geometry": {
+    "x": 6.8890100411947586,
+    "y": 50.937864362511135
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 93,
+    "ADRESSE": "Berrenrather Str. 138 (50937 Sülz)"
+   },
+   "geometry": {
+    "x": 6.9293378311003266,
+    "y": 50.921873360618001
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 94,
+    "ADRESSE": "Brauweilerstr. 30 (50859 Lövenich)"
+   },
+   "geometry": {
+    "x": 6.831300729957654,
+    "y": 50.945323933683291
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 95,
+    "ADRESSE": "Dürener Str. 287 (50935 Lindenthal)"
+   },
+   "geometry": {
+    "x": 6.9034274952032408,
+    "y": 50.927289670492975
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 96,
+    "ADRESSE": "Holzmarkt 75 (50676 Altstadt/Süd)"
+   },
+   "geometry": {
+    "x": 6.9623245220065151,
+    "y": 50.932366857741137
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 97,
+    "ADRESSE": "Riehler Str. 12 (50668 Neustadt/Nord)"
+   },
+   "geometry": {
+    "x": 6.9618054266587368,
+    "y": 50.952485976753053
+   }
+  }
+ ]
+}

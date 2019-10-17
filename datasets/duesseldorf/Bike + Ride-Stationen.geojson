@@ -1,0 +1,981 @@
+{
+   "type": "FeatureCollection",
+   "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4647" } },
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.768617,51.195687,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Aachener Straße - Aachener Platz",
+    "ANSCHRIFT":"Aachener Straße 40223 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Aachener Platz",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.737520,51.241592,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Am Seestern U",
+    "ANSCHRIFT":"Am Seestern 40547 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Am Seestern U",
+    "KAPAZITÄT":"16 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.775968,51.326056,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride An den Kämpen",
+    "ANSCHRIFT":"Angermunder Straße 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"An den Kämpen",
+    "KAPAZITÄT":"6 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.782346,51.329916,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Angermund S",
+    "ANSCHRIFT":"Bahnhofstraße 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Angermund S",
+    "KAPAZITÄT":"210 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.779024,51.328519,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Auf der Krone",
+    "ANSCHRIFT":"Angermunder Straße 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Auf der Krone",
+    "KAPAZITÄT":"6 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.754837,51.231719,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Barbarossaplatz",
+    "ANSCHRIFT":"Luegallee 40545 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Barbarossaplatz",
+    "KAPAZITÄT":"25 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.747414,51.231548,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Belsenplatz ",
+    "ANSCHRIFT":"Belsenplatz 40545 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Belsenplatz",
+    "KAPAZITÄT":"45 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.877477,51.162347,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Benrath S",
+    "ANSCHRIFT":"Benrath (S)  40597 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Benrath S",
+    "KAPAZITÄT":"240 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.864970,51.163752,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Benrath, Rathaus",
+    "ANSCHRIFT":"Benrodestraße 40597 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Benrath, Rathaus",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.776392,51.208826,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Bilk S",
+    "ANSCHRIFT":"Friedrichstraße 40217 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Bilk S",
+    "KAPAZITÄT":"89 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.827150,51.241448,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Burgmüllerstraße",
+    "ANSCHRIFT":"Grafenberger Allee 40235 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Burgmüllerstraße",
+    "KAPAZITÄT":"15 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.796614,51.196841,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Christophstrasse ",
+    "ANSCHRIFT":"Christophstraße  40225 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Christophstrasse",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.794798,51.247274,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Derendorf S",
+    "ANSCHRIFT":"Münsterstraße 40470 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Derendorf S",
+    "KAPAZITÄT":"28 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.727285,51.233037,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Dominikus-Krankenhaus",
+    "ANSCHRIFT":"Pariser Straße 40549 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Dominikus-Krankenhaus",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.838223,51.201238,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Eller Mitte",
+    "ANSCHRIFT":"Gumbertstraße 40229 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Eller Mitte",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.837108,51.201659,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Eller Mitte S",
+    "ANSCHRIFT":"Gumbertstraße 40229 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Eller Mitte S",
+    "KAPAZITÄT":"13 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.851549,51.202501,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Eller S",
+    "ANSCHRIFT":"Venhauser Allee 40229 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Eller S",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.835793,51.197908,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Eller Süd S",
+    "ANSCHRIFT":"Marburger Straße 40229 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Eller Süd S",
+    "KAPAZITÄT":"66 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.811213,51.226158,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flingern S",
+    "ANSCHRIFT":"Dorotheenstraße 40235 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flingern S",
+    "KAPAZITÄT":"14 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.787578,51.291024,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafen Bf ",
+    "ANSCHRIFT":"Ahrensplatz 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafen S",
+    "KAPAZITÄT":"74 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.787578,51.291024,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafen S",
+    "ANSCHRIFT":"Ahrensplatz 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafen S",
+    "KAPAZITÄT":"20 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.767084,51.276803,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafen Terminal S",
+    "ANSCHRIFT":"Terminal-Ring 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafen Terminal ABC",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.779844,51.284713,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafen, Halle 7",
+    "ANSCHRIFT":"Frachtstraße 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafen, Halle 7",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.766752,51.275281,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafenstraße",
+    "ANSCHRIFT":"Peter-Müller-Straße 40468 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafenverwaltung",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.766752,51.275281,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Flughafenverwaltung",
+    "ANSCHRIFT":"Peter-Müller-Straße 40468 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Flughafenverwaltung",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.788094,51.211266,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Friedrichstadt S",
+    "ANSCHRIFT":"Oberbilker Allee 40223 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Friedrichstadt S",
+    "KAPAZITÄT":"14 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.751200,51.339233,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Froschenteich",
+    "ANSCHRIFT":"Am Froschenteich 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Froschenteich",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.897809,51.143882,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Garath S",
+    "ANSCHRIFT":"Fritz-Erler-Straße 40595 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Garath S",
+    "KAPAZITÄT":"135 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.865425,51.220487,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Gerresheim S",
+    "ANSCHRIFT":"Im Brühl 40625 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Gerresheim S",
+    "KAPAZITÄT":"58 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.854300,51.245386,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Gerresheim, Krankenhaus ",
+    "ANSCHRIFT":"Ratinger Weg (Parkplatz- und Haltestellenanlage) 40629 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Gerresheim, Krankenhaus",
+    "KAPAZITÄT":"20 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.739254,51.210310,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Hamm S",
+    "ANSCHRIFT":"Kuhstraße 40221 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Hamm S",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.699932,51.229196,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Handweiser U",
+    "ANSCHRIFT":"Heerdter Landstraße 40549 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Handweiser U",
+    "KAPAZITÄT":"15 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.776897,51.225066,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Heinrich-Heine-Allee U",
+    "ANSCHRIFT":"Heinrich-Heine-Allee 40213 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Heinrich-Heine-Allee U",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.908351,51.132563,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Hellerhof S",
+    "ANSCHRIFT":"Hellerhofweg 40595 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Hellerhof S",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.832889,51.175030,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Holthausen",
+    "ANSCHRIFT":"Bonner Straße 40589 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Holthausen",
+    "KAPAZITÄT":"45 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.820960,51.183927,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Ickerswarder Straße U",
+    "ANSCHRIFT":"Ickerswarder Straße 40589 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Ickerswarder Straße U",
+    "KAPAZITÄT":"45 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.787179,51.331758,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Im Großen Winkel",
+    "ANSCHRIFT":"Im Großen Winkel 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Im Großen Winkel",
+    "KAPAZITÄT":"3 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.835097,51.203684,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Jägerstaße U",
+    "ANSCHRIFT":"Zeppelinstraße 40231 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Jägerstraße U",
+    "KAPAZITÄT":"23 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.781672,51.226702,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Jan-Wellem-Platz",
+    "ANSCHRIFT":"Jan-Wellem-Platz 40212 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Jan-Wellem-Platz",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.743147,51.305244,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Kalkumer Schlossallee",
+    "ANSCHRIFT":"Kalkumer Schlossallee 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Kalkumer Schlossallee",
+    "KAPAZITÄT":"25 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.810038,51.220141,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Kettwiger Straße U",
+    "ANSCHRIFT":"Erkrather Straße 40233 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Kettwiger Straße U",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.738597,51.294671,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Kittelbachstraße ",
+    "ANSCHRIFT":"Kittelbachstraße  40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Kittelbachstraße",
+    "KAPAZITÄT":"25 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.739037,51.300211,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Klemensplatz ",
+    "ANSCHRIFT":"Niederrheinstraße 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Klemensplatz",
+    "KAPAZITÄT":"50 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.747668,51.274004,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Lohausen",
+    "ANSCHRIFT":"Flughafenstraße 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Lohausen",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.728216,51.240335,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Lohweg U",
+    "ANSCHRIFT":"Hansallee 40549 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Lohweg U",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.717381,51.244860,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Lörick ",
+    "ANSCHRIFT":"Hansaallee 40547 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Lörick ",
+    "KAPAZITÄT":"60 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.761189,51.231419,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Luegplatz U",
+    "ANSCHRIFT":"Luegallee 40545 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Luegplatz U",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.767704,51.276498,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Maritimplatz",
+    "ANSCHRIFT":"Maritimplatz 40468 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Maritimplatz",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.754719,51.260092,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Messe Ost - Stockumer Kirchstraße ",
+    "ANSCHRIFT":"Kaiserswerther Straße 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Messe Ost, Stockumer Kirchstraße ",
+    "KAPAZITÄT":"15 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.776736,51.236050,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Nordstraße ",
+    "ANSCHRIFT":"Fischerstraße 40477 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Nordstraße ",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.807953,51.208393,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Oberbilk S",
+    "ANSCHRIFT":"Siegburger Straße 40591 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Oberbilk S",
+    "KAPAZITÄT":"28 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.827446,51.266111,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Oberrath ",
+    "ANSCHRIFT":"Dachsbergweg 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Oberrath ",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.811745,51.199586,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Provinzialplatz ",
+    "ANSCHRIFT":"Siegburger Straße 40591 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Provinzialplatz ",
+    "KAPAZITÄT":"12 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.795127,51.218974,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Radstation am Hauptbahnhof",
+    "ANSCHRIFT":"Willi-Becker-Allee 8A 40227 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Düsseldorf Hauptbahnhof",
+    "KAPAZITÄT":"700 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.795127,51.218974,0 ]
+    },
+    "properties": {
+    "NAME":"Radstation Radstation am Hauptbahnhof",
+    "ANSCHRIFT":"Willi-Becker-Allee 8A 40227 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Düsseldorf Hbf",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.795127,51.218974,0 ]
+    },
+    "properties": {
+    "NAME":"Verleih Radstation am Hauptbahnhof",
+    "ANSCHRIFT":"Willi-Becker-Allee 8A 40227 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Düsseldorf Hbf",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.765578,51.219135,0 ]
+    },
+    "properties": {
+    "NAME":"Radstation Radstation am Rheinufer",
+    "ANSCHRIFT":"Apollo-Platz 40213 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Landtag/Kniebrücke",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.765578,51.219135,0 ]
+    },
+    "properties": {
+    "NAME":"Verleih Radstation am Rheinufer",
+    "ANSCHRIFT":"Apollo-Platz 40213 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Landtag/Kniebrücke",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.820216,51.263739,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Rath S",
+    "ANSCHRIFT":"Westfalenstraße 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Rath S",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.809366,51.261135,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Rath-Mitte S",
+    "ANSCHRIFT":"Münsterstraße 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Rath-Mitte S",
+    "KAPAZITÄT":"14 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.759668,51.253008,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Reeser Platz",
+    "ANSCHRIFT":"Kaiserswerther Straße 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Reeser Platz",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.861836,51.180067,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Reisholz S",
+    "ANSCHRIFT":"Henkelstraße 40599 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Reisholz S",
+    "KAPAZITÄT":"34 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.878111,51.258856,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Rotthäuser Weg",
+    "ANSCHRIFT":"Knittkuhler Straße 40629 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Rotthäuser Weg",
+    "KAPAZITÄT":"6 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.829165,51.242081,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Staufenplatz ",
+    "ANSCHRIFT":"Staufenplatz 40629 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Staufenplatz",
+    "KAPAZITÄT":"15 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.755718,51.200525,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Südfriedhof",
+    "ANSCHRIFT":"Am Südfriedhof 40221 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Südfriedhof",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.803068,51.194574,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Südpark ",
+    "ANSCHRIFT":"Südpark 40225 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Südpark",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.764675,51.249779,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Theodor-Heuss-Brücke U",
+    "ANSCHRIFT":"Uerdinger Straße 40474 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Theodor-Heuss-Brücke U",
+    "KAPAZITÄT":". Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.789410,51.276965,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Unterrath S",
+    "ANSCHRIFT":"Hamborner Straße 40472 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Unterrath S",
+    "KAPAZITÄT":"14 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.845142,51.199146,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Vennhauser Allee ",
+    "ANSCHRIFT":"Vennhauser Allee 40229 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Vennhauser Allee",
+    "KAPAZITÄT":"48 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.762288,51.209799,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Völklinger Straße S",
+    "ANSCHRIFT":"Volmerswerther Straße 40221 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Völklinger Straße S",
+    "KAPAZITÄT":"21 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.793592,51.209476,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Volksgarten S",
+    "ANSCHRIFT":"Auf´n Hennekamp 40227 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Volksgarten S",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.797494,51.229640,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Wehrhahn S",
+    "ANSCHRIFT":"Grafenberger Allee 40211 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Wehrhahn S",
+    "KAPAZITÄT":"10 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.815090,51.193260,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Werstener Dorfstraße ",
+    "ANSCHRIFT":"Kölner Landstraße 40591 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Werstener Dorfstraße",
+    "KAPAZITÄT":"40 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.745620,51.318502,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Wittlaer U",
+    "ANSCHRIFT":"Hermann-Schauten-Weg 40489 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Wittlaer U",
+    "KAPAZITÄT":"30 Stellplätze"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.797515,51.236378,0 ]
+    },
+    "properties": {
+    "NAME":"Bike+Ride Zoo S",
+    "ANSCHRIFT":"Rethelstraße 40237 Düsseldorf",
+    "HALTESTELLE ÖPNV":"Zoo S",
+    "KAPAZITÄT":"7 Stellplätze"
+    }
+  }
+]
+}

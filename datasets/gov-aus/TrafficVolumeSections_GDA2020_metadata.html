@@ -1,0 +1,262 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head id="Head1"><meta charset="utf-8" /><title>
+	Location Metadata System - Location SA - Public
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+        <script src="~/Scripts/jquery-1.11.0.min.js" type="text/javascript"></script>
+        <script src="~/Scripts/lms.js" type="text/javascript"></script>
+        <script src="~/Scripts/moment.min.js" type="text/javascript"></script>
+
+
+        <link href="../Content/bootstrap.css" rel="stylesheet" type="text/css" /><link href="../Content/bootstrap-theme.min.css" rel="stylesheet" type="text/css" /><link href="../Content/lms.css" rel="stylesheet" type="text/css" />
+    
+
+        <!--[if lt IE 9]>  
+        <script src="~/Scripts/html5shiv.js"></script>
+        <script src="~/Scripts/respond.min.js"></script>
+        <![endif]-->
+
+       
+</head>
+
+    <body>
+        <form method="post" action="ReportMetadata.aspx" id="frmLMS" role="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTQ1OTk5NjE1D2QWAmYPZBYCAgMPZBYEZg8PFgIeC05hdmlnYXRlVXJsBR5odHRwOi8vd3d3LmxvY2F0aW9uLnNhLmdvdi5hdS9kFgJmDw8WBB4ISW1hZ2VVcmwFLn4vSW1hZ2VzL0xPQ1NBMDAxX0xvZ29fU2NyZWVuX1YyX1JHQl9DX3NtbC5qcGceDUFsdGVybmF0ZVRleHQFC0xvY2F0aW9uIFNBZGQCAQ9kFggCAQ8PFgIeBFRleHQFD1RyYWZmaWMgVm9sdW1lc2RkAgMPPCsAEQIBEBYAFgAWAAwUKwAAZAIFDw8WAh4HVmlzaWJsZWdkFg4CAQ88KwAKAQAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCAWQWAmYPZBYGZg8PFgIfBGhkZAIBD2QWAmYPZBYCZg8VAwM4MjIPVHJhZmZpYyBWb2x1bWVzkwFEYXRhIEF1dGhvcml0eTogRGVwYXJ0bWVudCBvZiBQbGFubmluZywgVHJhbnNwb3J0IGFuZCBJbmZyYXN0cnVjdHVyZTxCUiAvPkRhdGEgUHJvdmlkZXI6IERlcGFydG1lbnQgb2YgUGxhbm5pbmcsIFRyYW5zcG9ydCBhbmQgSW5mcmFzdHJ1Y3R1cmU8QlIgLz5kAgIPDxYCHwRoZGQCAw88KwAKAQAPFgQfBWcfBgIBZBYCZg9kFgZmDw8WAh8EaGRkAgEPZBYCZg9kFgJmDxUCxAFUcmFmZmljIFZvbHVtZXMgaXMgdGhlIHN1bSBvZiB0cmFmZmljIHRyYXZlbGxpbmcgaW4gYm90aCBkaXJlY3Rpb25zIG9uIGEgdHdvIHdheSByb2FkIHBhc3NpbmcgYSByb2Fkc2lkZSBvYnNlcnZhdGlvbiBwb2ludCBvdmVyIHRoZSBwZXJpb2Qgb2YgYSBmdWxsIHllYXIgZGl2aWRlZCBieSB0aGUgbnVtYmVyIG9mIGRheXMgaW4gdGhlIHllYXIuTlVzZWQgdG8gZGV0ZXJtaW5lIHJvYWQgdHJhZmZpYyB1c2FnZSBmb3IgdGhlIHN0YXRlcyByb2FkIG5ldHdvcmsgZm9yIGFuYWx5c2lzLmQCAg8PFgIfBGhkZAIFDzwrAAoBAA8WBB8FZx8GAgFkFgJmD2QWBmYPDxYCHwRoZGQCAQ9kFgJmD2QWAmYPFQMUU2VlIFJJVFMgZm9yIGRldGFpbHMbT25nb2luZyBkZXZlbG9wbWVudCBvZiBkYXRhPEFjY3VyYWN5IG9mIG9ic2VydmF0aW9uIHBvaW50IGFuZCB0cmFmZmljIGRldGFpbCBpcyBvdmVyIDk1JWQCAg8PFgIfBGhkZAIHDzwrAAoBAA8WBB8FZx8GAgFkFgJmD2QWBmYPDxYCHwRoZGQCAQ9kFgJmD2QWAmYPFQUPU291dGggQXVzdHJhbGlhAzEyOQYtMzguMjUDMTQxAy0yNmQCAg8PFgIfBGhkZAIJDzwrAAoBAA8WBB8FZx8GAgFkFgJmD2QWBmYPDxYCHwRoZGQCAQ9kFgJmD2QWBGYPFQQHVW5rbm93bgAGV2Vla2x5Z0Rlcml2ZWQgZnJvbSBDUlJTIFJvYWQgTGluZWFyIFJlZmVyZW5jaW5nIFN5c3RlbQ0KT3JhY2xlIFRhYmxlcyBtYWludGFpbmVkIGluIHRoZSBUcmFmZmljIFZvbHVtZSBTeXN0ZW1kAgIPFQIAFkNDIEJZICAgIChBdHRyaWJ1dGlvbilkAgIPDxYCHwRoZGQCDQ88KwARAwAPFgQfBWcfBgIPZAEQFgAWABYADBQrAAAWAmYPZBYgAgEPZBYKZg8PFgIfAwUPQXR0cmlidXRlIFRhYmxlZGQCAQ8PFgIfAwUHUk9BRF9OT2RkAgIPDxYCHwMFBiZuYnNwO2RkAgMPDxYCHwMFBHRleHRkZAIEDw8WAh8DBaMBVW5pcXVlIGlkZW50aWZpZXIgYXMgZGVmaW5lZCBieSBEUFRJLCBmb3Igcm9hZHMgd2hpY2ggRFBUSSBhcmUgcmVzcG9uc2libGUgZm9yIG1haW50YWluaW5nIG9yIG1heSBoYXZlIGluIHRoZSBwYXN0LCBhcyB3ZWxsIHJvYWRzIHdoaWNoIG1heSBiZSBvZiBpbnRlcmVzdCB0byBEUFRJLmRkAgIPZBYKZg8PFgIfAwUPQXR0cmlidXRlIFRhYmxlZGQCAQ8PFgIfAwUEU0lERWRkAgIPDxYCHwMFBiZuYnNwO2RkAgMPDxYCHwMFBHRleHRkZAIEDw8WAh8DBc8BQ2FycmlhZ2V3YXkvU2lkZSBmb3IgdGhlIGRlc2lnbmF0ZWQgc2VjdGlvbiBvZiByb2FkDQpBbGwgQ1JSUyByb2FkcyBoYXZlIGEgZGVmaW5lZCBkaXJlY3Rpb24gYW5kIHRoZSBzaWRlIGlzIGRlZmluZWQgd2l0aCByZWZlcmVuY2UgdG8gdGhlIGluY3JlYXNpbmcgcm9hZCBydW5uaW5nIGRpc3RhbmNlLCBub3QgZHJpdmluZyBkaXJlY3Rpb24gb2YgdGhlIHJvYWQuZGQCAw9kFgpmDw8WAh8DBQ9BdHRyaWJ1dGUgVGFibGVkZAIBDw8WAh8DBRBURVNFQ05fU1RBUlRfUlJEZGQCAg8PFgIfAwUGJm5ic3A7ZGQCAw8PFgIfAwUGRG91YmxlZGQCBA8PFgIfAwW2AURyaXZlbiBsZW5ndGggKHJvYWQgcnVubmluZyBkaXN0YW5jZSkgaW4ga2lsb21ldHJlcyBmcm9tIHRoZSBzdGFydCBvZiB0aGUgcm9hZCB0byB0aGUgc3RhcnQgb2YgdGhlIHNlY3Rpb24gZm9yIHRoZSBBQURUDQpBbGwgcm9hZHMgaGF2ZSBhIGRlc2lnbmF0ZWQgc3RhcnQsIGVuZCBhbmQgZGlyZWN0aW9uIGluIENSUlMuZGQCBA9kFgpmDw8WAh8DBQ9BdHRyaWJ1dGUgVGFibGVkZAIBDw8WAh8DBQ1URVNDTl9FTkRfUlJEZGQCAg8PFgIfAwUGJm5ic3A7ZGQCAw8PFgIfAwUGRG91YmxlZGQCBA8PFgIfAwV2RHJpdmVuIGxlbmd0aCAocm9hZCBydW5uaW5nIGRpc3RhbmNlKSBpbiBraWxvbWV0cmVzIGZyb20gdGhlIHN0YXJ0IG9mIHRoZSByb2FkIHRvIHRoZSBlbmQgb2YgdGhlIHNlY3Rpb24gZm9yIHRoZSBBQURULmRkAgUPZBYKZg8PFgIfAwUPQXR0cmlidXRlIFRhYmxlZGQCAQ8PFgIfAwUJVEVTRUNOX0lEZGQCAg8PFgIfAwUGJm5ic3A7ZGQCAw8PFgIfAwUGRG91YmxlZGQCBA8PFgIfAwUaSW50ZXJuYWwgdW5pcXVlIGlkZW50aWZpZXJkZAIGD2QWCmYPDxYCHwMFD0F0dHJpYnV0ZSBUYWJsZWRkAgEPDxYCHwMFDVRFU0VDTl9WT0xVTUVkZAICDw8WAh8DBQYmbmJzcDtkZAIDDw8WAh8DBQxMb25nIEludGVnZXJkZAIEDw8WAh8DBSZUcmFmZmljIHZv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dmlkZXIPZ2QFIGN0bDAwJE1haW5Db250ZW50JGZ2RGVzY3JpcHRpb24yD2dkBRxjdGwwMCRNYWluQ29udGVudCRmdkNpdGF0aW9uDxQrAAdkZGRkZBYAAgFkBR9jdGwwMCRNYWluQ29udGVudCRndkRhdGFzZXRMaXN0D2dkBRpjdGwwMCRNYWluQ29udGVudCRndkZpZWxkcw9nZAUbY3RsMDAkTWFpbkNvbnRlbnQkZnZRdWFsaXR5DxQrAAdkZGRkZBYAAgFkBRtjdGwwMCRNYWluQ29udGVudCRndkRhdE5vdGUPZ2QFHWN0bDAwJE1haW5Db250ZW50JGZ2R2VvRXh0ZW50DxQrAAdkZGRkZBYAAgFkBSVjdGwwMCRNYWluQ29udGVudCRmdlNlY3VyaXR5TGljZW5zaW5nD2dkBRpjdGwwMCRNYWluQ29udGVudCRmdkV4dGVudA9nZAUaY3RsMDAkTWFpbkNvbnRlbnQkZ3ZUYWJsZXMPZ2QFH2N0bDAwJE1haW5Db250ZW50JGZ2RGVzY3JpcHRpb24PFCsAB2RkZGRkFgACAWQFG2N0bDAwJE1haW5Db250ZW50JGZ2RGF0YXNldA9nZAUaY3RsMDAkTWFpbkNvbnRlbnQkZnZTdGF0dXMPZ2QFIWN0bDAwJE1haW5Db250ZW50JGZ2RGF0YUF1dGhvcml0eQ9nZAUeY3RsMDAkTWFpbkNvbnRlbnQkZ3ZBdHRyaWJ1dGVzDzwrAAwBCAIBZAUbY3RsMDAkTWFpbkNvbnRlbnQkZnZDb250YWN0DxQrAAdkZGRkZBYAAgFkBSFjdGwwMCRNYWluQ29udGVudCRmdkRhdGFzZXRTdGF0dXMPFCsAB2RkZGRkFgACAWQFJGN0bDAwJE1haW5Db250ZW50JGZ2UmVsYXRlZFByb2R1Y3RzMg9nZAUmY3RsMDAkTWFpbkNvbnRlbnQkZnZKb2ludERhdGFBdXRob3JpdHkPZ2QFI2N0bDAwJE1haW5Db250ZW50JGZ2UmVsYXRlZFByb2R1Y3RzD2dkadXG+f/dnQyuoJrvLuMhUmrMkLw=" />
+</div>
+
+            <header>
+                <div class="container">
+                    
+                    <div class="row">
+                        <div id="dpti-lms-head-container" class="small col-sm-12">
+                            <div id="logo">
+                                <a id="linkLogoURL" href="http://www.location.sa.gov.au/"><img id="imgReportLogo" src="../Images/LOCSA001_Logo_Screen_V2_RGB_C_sml.jpg" alt="Location SA" /></a>
+                                    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="container">        
+               
+
+    <h3><span id="MainContent_lblDatasetName">Traffic Volumes</span></h3>
+
+    <div>
+
+</div>
+
+    <div id="MainContent_pnlPublic">
+	
+
+        <table cellspacing="0" id="MainContent_fvCitation" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+
+                <table>
+                    <tr>
+                        <td class="columnlabel">Dataset Number</td><td class="datatext">822</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Dataset Title</td><td class="datatext">Traffic Volumes</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Custodian</td><td class="datatext">Data Authority: Department of Planning, Transport and Infrastructure<BR />Data Provider: Department of Planning, Transport and Infrastructure<BR /></td>
+                    </tr>
+                </table>
+            </td>
+		</tr>
+	</table>
+
+
+
+        <table cellspacing="0" id="MainContent_fvDescription" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+                <h4 class="divider">Description</h4>
+                <table> 
+                    <tr>
+                        <td class="columnlabel">Description</td><td class="datatext">Traffic Volumes is the sum of traffic travelling in both directions on a two way road passing a roadside observation point over the period of a full year divided by the number of days in the year.</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Usage</td><td class="datatext">Used to determine road traffic usage for the states road network for analysis.</td>
+                    </tr>
+                </table>
+            </td>
+		</tr>
+	</table>
+
+        <table cellspacing="0" id="MainContent_fvQuality" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+                <h4 class="divider">Data Quality</h4>
+                <table>
+                    <tr>
+                        <td class="columnlabel">Lineage</td><td class="datatext">See RITS for details</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Completeness</td><td class="datatext">Ongoing development of data</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Positional Accuracy</td><td class="datatext">Accuracy of observation point and traffic detail is over 95%</td>
+                    </tr>
+
+                </table>
+            </td>
+		</tr>
+	</table>
+
+        <table cellspacing="0" id="MainContent_fvGeoExtent" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+                <h4 class="divider">Geographic Extent</h4>
+                <table>
+                    <tr>
+                        <td class="columnlabel">Extent Name</td><td class="datatext">South Australia</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Min Easting or Longitude</td><td class="datatext">129</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Min Northing or Latitude</td><td class="datatext">-38.25</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Max Easting or Longitude</td><td class="datatext">141</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Max Northing or Latitude</td><td class="datatext">-26</td>
+                    </tr>
+                </table>
+            </td>
+		</tr>
+	</table>
+
+        <table cellspacing="0" id="MainContent_fvDatasetStatus" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+                <h4 class="divider">Dataset Status</h4>
+                <table>
+                    <tr>
+                        <td class="columnlabel">Initially Acquired</td><td class="datatext">Unknown</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Last Updated</td><td class="datatext"></td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Update Frequency</td><td class="datatext">Weekly</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Maintenance Method</td><td class="datatext">Derived from CRRS Road Linear Referencing System
+Oracle Tables maintained in the Traffic Volume System</td>
+                    </tr>
+
+                    <tr>
+                        <td id="MainContent_fvDatasetStatus_Td2" class="columnlabel"></td>
+			<td class="datatext"></td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">AusGOAL</td><td class="datatext">CC BY    (Attribution)</td>
+                    </tr>
+                </table>
+            </td>
+		</tr>
+	</table>
+    
+        <h4 id="MainContent_lblAttHeader" class="divider">Attributes</h4>
+
+        <div>
+		<table class="table table-striped" cellspacing="0" rules="all" border="1" id="MainContent_gvAttributes" style="border-collapse:collapse;">
+			<tr>
+				<th scope="col">Table</th><th scope="col">Name</th><th scope="col">Field Alias</th><th scope="col">Data Type</th><th scope="col">Description</th>
+			</tr><tr>
+				<td>Attribute Table</td><td>ROAD_NO</td><td>&nbsp;</td><td>text</td><td>Unique identifier as defined by DPTI, for roads which DPTI are responsible for maintaining or may have in the past, as well roads which may be of interest to DPTI.</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>SIDE</td><td>&nbsp;</td><td>text</td><td>Carriageway/Side for the designated section of road
+All CRRS roads have a defined direction and the side is defined with reference to the increasing road running distance, not driving direction of the road.</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESECN_START_RRD</td><td>&nbsp;</td><td>Double</td><td>Driven length (road running distance) in kilometres from the start of the road to the start of the section for the AADT
+All roads have a designated start, end and direction in CRRS.</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESCN_END_RRD</td><td>&nbsp;</td><td>Double</td><td>Driven length (road running distance) in kilometres from the start of the road to the end of the section for the AADT.</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESECN_ID</td><td>&nbsp;</td><td>Double</td><td>Internal unique identifier</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESECN_VOLUME</td><td>&nbsp;</td><td>Long Integer</td><td>Traffic volume as defined above (AADT)</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESECN_BASE_YEAR</td><td>&nbsp;</td><td>text</td><td>The year in which the traffic volume was counted</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TESECN_PROJECTED</td><td>&nbsp;</td><td>text</td><td>The year traffic volume (AADT) was last updated</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>CV_PERCENT</td><td>&nbsp;</td><td>Long Integer</td><td>The percentage of AADT for Commercial Vehicles</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>NUMBER_CVS</td><td>&nbsp;</td><td>Long Integer</td><td>Number of Commercial Vehicles</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>CLASS3TO5</td><td>&nbsp;</td><td>Long Integer</td><td>The number of vehicles of this configuration</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>CLASS6TO9</td><td>&nbsp;</td><td>Long Integer</td><td>The number of vehicles of this configuration</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>CLASS10</td><td>&nbsp;</td><td>Long Integer</td><td>The number of vehicles of this configuration</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>CLASS11</td><td>&nbsp;</td><td>Long Integer</td><td>The number of vehicles of this configuration</td>
+			</tr><tr>
+				<td>Attribute Table</td><td>TRAFFIC_SCORE</td><td>&nbsp;</td><td>Double</td><td>Derived figure based on AADT and Commercial Vehicles</td>
+			</tr>
+		</table>
+	</div>
+
+        <table cellspacing="0" id="MainContent_fvContact" style="border-collapse:collapse;">
+		<tr>
+			<td colspan="2">
+                <h4 class="divider">Contact Information</h4>
+                <table>
+                    <tr>
+                        <td class="columnlabel">Organisation</td><td class="datatext">Department of Planning, Transport and Infrastructure<BR>Safety and Service Division</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Postal Address</td><td class="datatext">GPO Box 1533<BR> <BR/> ADELAIDE  <BR/>  5001</td>
+                    </tr>
+                    <tr>
+                        <td class="columnlabel">Email</td><td class="datatext">dpti.gisoffice@sa.gov.au</td>
+                    </tr>
+                </table>
+            </td>
+		</tr>
+	</table>
+
+    
+</div>
+
+    
+
+
+            </div>
+            <footer>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div>&nbsp;</div>
+                          <p>This Metadata document has been delivered by the Location Metadata System (LMS) developed by Location SA.</p>
+                          <p>Retrieved on: Saturday, 10 August 2019 </p>
+                          <p>Metadata URL: <a href="http://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=822&pu=y">http://location.sa.gov.au/LMS/Reports/ReportMetadata.aspx?p_no=822&pu=y </a></p>
+                          <p>This metadata report is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/au/deed.en" title="Creative Commons License information">Creative Commons Attribution 3.0 Australia Licence</a>  
+                           <img id="ccLogo" src="../Images/icon_commons.png" alt="Creative Commons Licence" />
+								<p>Copyright in this information remains with the Crown in right of the State of South Australia and its licensors including but not limited to the Commonwealth of Australia. Information is not represented to be accurate, current, complete or suitable for any purpose, at the time of its supply and may have changed since the date of supply. No responsibility is accepted for any reliance placed by any person in the use of this information.<br />
+                                   <br />&copy; Copyright 2019 Location SA </p>
+                         </div>
+                    </div>
+                </div>
+            </footer>
+        
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ABE23021" />
+</div></form>
+        <script src="Scripts/bootstrap.min.js" type="text/javascript"></script>
+    </body>
+
+</html>

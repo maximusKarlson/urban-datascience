@@ -1,0 +1,293 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.74649227,51.27042464,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"A44 in Höhe Brücke Niederrheinstraße",
+    "Beschreibung":"in beiden Fahrtrichtungen",
+    "Geschwindigkeit":"100 km/h",
+    "Planquadrat":4282,
+    "UTM East":32342802,
+    "UTM North":5682310
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.77553895,51.18727691,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"A46 Fleher Brücke",
+    "Beschreibung":"",
+    "Geschwindigkeit":"",
+    "Planquadrat":4473,
+    "UTM East":32344548,
+    "UTM North":5673003
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.790440,51.207258,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Auf´m Hennekamp vor Gurlittstraße",
+    "Beschreibung":"stadtauswärts Richtung Witzelstraße",
+    "Geschwindigkeit":"50 km/h",
+    "Planquadrat":4575,
+    "UTM East":32345587,
+    "UTM North":5675182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.751554,51.265823,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung Rotlichtüberwachung",
+    "Name":"Beckbuschstraße - Freiligrathplatz",
+    "Beschreibung":"",
+    "Geschwindigkeit":"",
+    "Planquadrat":4381,
+    "UTM East":32343126,
+    "UTM North":5681730
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.802990,51.238489,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung Rotlichtüberwachung",
+    "Name":"Brehmplatz",
+    "Beschreibung":"stadtauswärts Richtung Eisstadion",
+    "Geschwindigkeit":"",
+    "Planquadrat":4678,
+    "UTM East":32346657,
+    "UTM North":5678667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.840174,51.227643,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Dreherstraße 225 am Postsportplatz",
+    "Beschreibung":"stadtauswärts Richtung Gerresheim",
+    "Geschwindigkeit":"50 km/h",
+    "Planquadrat":4977,
+    "UTM East":32349209,
+    "UTM North":5677342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.782125,51.215685,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung Rotlichtüberwachung",
+    "Name":"Herzogstraße - Corneliusstraße",
+    "Beschreibung":"stadtauswärts Richtung Rhein-Knie-Brücke",
+    "Geschwindigkeit":"50 km/h",
+    "Planquadrat":4576,
+    "UTM East":32345091,
+    "UTM North":5676150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.80103603,51.25078613,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle und Rotlichtüberwachung",
+    "Name":"Mörsenbroicher Ei - Grashofstraße Ecke Münster Straße",
+    "Beschreibung":"in Richtung Heinrich Straße",
+    "Geschwindigkeit":"",
+    "Planquadrat":4680,
+    "UTM East":32346541,
+    "UTM North":5680011
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.810103,51.175574,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Münchener Straße hinter Ickerswarder Straße",
+    "Beschreibung":"stadtauswärts Richtung Benrath",
+    "Geschwindigkeit":"70 km/h",
+    "Planquadrat":4671,
+    "UTM East":32346928,
+    "UTM North":5671598
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.82256039,51.17007568,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle und Rotlichtüberwachung",
+    "Name":"Münchener Straße - Itter Straße",
+    "Beschreibung":"Richtung Innenstadt",
+    "Geschwindigkeit":"",
+    "Planquadrat":4770,
+    "UTM East":32347777,
+    "UTM North":5670992
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.750255,51.271056,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung Rotlichtüberwachung",
+    "Name":"Nordstern - Überfahrt B8 - A44",
+    "Beschreibung":"2 Anlagen stadteinwärts und Richtung Flughafen",
+    "Geschwindigkeit":"",
+    "Planquadrat":4382,
+    "UTM East":32343053,
+    "UTM North":5682342
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.77100806,51.22925388,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Rheinufertunnel Nord",
+    "Beschreibung":"jede Spur zwei Kontrollen in jede Fahrtrichtung",
+    "Geschwindigkeit":"70 km/h",
+    "Planquadrat":4477,
+    "UTM East":32344373,
+    "UTM North":5677680
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.76724719,51.22113287,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Rheinufertunnel Süd",
+    "Beschreibung":"jede Spur zwei Kontrollen in jede Fahrtrichtung",
+    "Geschwindigkeit":"70 km/h",
+    "Planquadrat":4476,
+    "UTM East":32344083,
+    "UTM North":5676785
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.810204,51.255924,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Sankt-Franziskus-Straße vor der Schule",
+    "Beschreibung":"stadteinwärts",
+    "Geschwindigkeit":"50 km/h",
+    "Planquadrat":4780,
+    "UTM East":32347136,
+    "UTM North":5680548
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.743723,51.240825,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung Rotlichtüberwachung",
+    "Name":"Seestern - Brüsselerstraße - Lütticherstraße",
+    "Beschreibung":"",
+    "Geschwindigkeit":"",
+    "Planquadrat":4279,
+    "UTM East":32342422,
+    "UTM North":5679094
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.738586,51.198465,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Südring Haltestelle D-Hamm",
+    "Beschreibung":"stadtauswärts vor Südbrücke",
+    "Geschwindigkeit":"70 km/h",
+    "Planquadrat":4174,
+    "UTM East":32341986,
+    "UTM North":5674341
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.750848,51.200312,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Südring vor Friedhof",
+    "Beschreibung":"stadteinwärts von Südbrücke kommend",
+    "Geschwindigkeit":"60 km/h",
+    "Planquadrat":4274,
+    "UTM East":32342944,
+    "UTM North":5674523
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.828952,51.187970,0 ]
+    },
+    "properties": {
+    "Einrichtung":"Verkehrsüberwachung stationäre Geschwindigkeitskontrolle",
+    "Name":"Werstener Feld - Opladener Straße",
+    "Beschreibung":"stadteinwärts vom Eller Friedhof kommend",
+    "Geschwindigkeit":"50 km/h",
+    "Planquadrat":4873,
+    "UTM East":32348313,
+    "UTM North":5673117
+    }
+  }
+]
+}
